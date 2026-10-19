@@ -27,6 +27,24 @@ window.BUKTI = {
     "kutipan": "Global cryptocurrency owners increased by 12.4% in 2025, rising from 659 million in 2024 to 741 million in 2025. ○ Based on our on-chain estimates: ■ Bitcoin BTC owners grew by 8.3%, from 337 million in 2024 to 365 million in 2025, accounting for 49.3% of global owners. ■ Ethereum ETH owners grew by 22.6%, from 142 million in 2024 to 175 million in 2025, accounting for 23.6% of global owners.",
     "terjemahan": "● Jumlah pemilik mata uang kripto global meningkat sebesar 12,4% pada tahun 2025, naik dari 659 juta pada tahun 2024 menjadi 741 juta pada tahun 2025.\n○ Berdasarkan estimasi on-chain kami:\n■ Pemilik Bitcoin (BTC) tumbuh sebesar 8,3%, dari 337 juta pada tahun 2024 menjadi 365 juta pada tahun 2025, atau 49,3% dari total pemilik global.\n■ Pemilik Ethereum (ETH) tumbuh sebesar 22,6%, dari 142 juta pada tahun 2024 menjadi 175 juta pada tahun 2025, atau 23,6% dari total pemilik global."
   },
+  4: {
+    "langsung": "https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/"
+  },
+  5: {
+    "halaman": "Hal. 65, Full Index (berkas PDF hal. 66)",
+    "gambar": [
+      {
+        "src": "img./fn005-1-asli.png",
+        "ket": "The 2025 Geography of Crypto Report, hal. 65",
+        "src_id": "img./fn005-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "Indonesia APAC 7 9 7 4 7",
+    "terjemahan": "Indeks Lengkap — Indeks Adopsi Kripto Global 2025 (10 besar)\n\nNegara · Kawasan · Peringkat indeks keseluruhan\n\n1. India · Asia-Pasifik\n2. Amerika Serikat · Amerika Utara\n3. Pakistan · Asia-Pasifik\n4. Vietnam · Asia-Pasifik\n5. Brasil · Amerika Latin\n6. Nigeria · Afrika Sub-Sahara\n7. Indonesia · Asia-Pasifik\n8. Ukraina · Eropa\n9. Filipina · Asia-Pasifik\n10. Federasi Rusia · Eropa\n\n(Kolom lain pada tabel asli: peringkat nilai yang diterima layanan terpusat ritel, layanan terpusat, DeFi, dan layanan terpusat institusional.)"
+  },
+  6: {
+    "langsung": "https://ojk.go.id/id/Statistik/ITSK/Statistik-Aset-Keuangan-dan-Aset-Kripto/Pages/Statistik-Penyelenggara-Perdagangan-AKD-AK-Periode-November-2025.aspx"
+  },
   7: {
     "halaman": "Hal. 52 (berkas PDF hal. 20)",
     "gambar": [
@@ -36,6 +54,9 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Oleh karena itu, perlu adanya pengaturan mengenai resiko-resiko yang mungkin terjadi dalam perdagangan aset kripto. Ketiga, permasalahan aktual yang saat ini menjadi wacana untuk dibentuk pengaturannya adalah terkait pemungutan pajak perdagangan aset kripto."
+  },
+  10: {
+    "langsung": "https://coinvestasi.com/berita/indodax-konfirmasi-diretas-siap-tanggung-kerugian-penuh"
   },
   11: {
     "halaman": "Hal. 1",
@@ -48,6 +69,12 @@ window.BUKTI = {
     ],
     "kutipan": "Founded in 2019, FTX quickly rose to eminence in the digital asset space, reaching the million-user mark by 2021 and reaching a valuation of over $30 billion from its last series C funding round. Group of companies under FTX empire are more than 100 in number and are incorporated across the globe while the main entity running the FTX exchange was operated out of the Bahamas. Its American partner, FTX US, had overlapping management teams but separate capital structures, allowing US residents to trade, as they were not allowed to do so on the main platform operating out of the Bahamas. FTX was established to be a cryptocurrency exchange \"built by traders, for traders",
     "terjemahan": "Didirikan pada tahun 2019, FTX dengan cepat menjadi terkemuka di bidang aset digital, mencapai satu juta pengguna pada tahun 2021 dan valuasi lebih dari $30 miliar dari putaran pendanaan seri C terakhirnya. Kelompok perusahaan di bawah kerajaan FTX berjumlah lebih dari 100 dan didirikan di berbagai negara, sementara entitas utama yang menjalankan bursa FTX dioperasikan dari Bahama. Mitra Amerikanya, FTX US, memiliki tim manajemen yang tumpang tindih tetapi struktur permodalan yang terpisah, sehingga penduduk AS dapat berdagang, karena mereka tidak diizinkan melakukannya di platform utama yang beroperasi dari Bahama. FTX didirikan sebagai bursa mata uang kripto yang “dibangun oleh trader, untuk trader”."
+  },
+  13: {
+    "langsung": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet"
+  },
+  14: {
+    "langsung": "https://intel.arkm.com/explorer/entity/ftx"
   },
   18: {
     "halaman": "Hal. 1266 (berkas PDF hal. 5)",
@@ -125,6 +152,9 @@ window.BUKTI = {
   39: {
     "langsung": "https://digilib.unila.ac.id/65540/3/3.%20SKRIPSI%20TANPA%20BAB%20PEMBAHASAN.pdf"
   },
+  43: {
+    "langsung": "https://kbbi.web.id/lindung"
+  },
   45: {
     "halaman": "Hal. 705 (berkas PDF hal. 9, kolom kanan)",
     "gambar": [
@@ -134,6 +164,33 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Perlindungan hukum bagi investor cryptocurrency secara preventif diatur dalam UU Perdagangan dan UU Perlindungan Konsumen, dimana menegaskan untuk kegiatan perdagangan yang menggunakan sistem elektronik wajib menyediakan data dan/atau informasi secara lengkap dan benar."
+  },
+  47: {
+    "langsung": "https://kbbi.web.id/status"
+  },
+  48: {
+    "langsung": "https://adcolaw.com/id/blog/kedudukan-hukum-legal-standing-dalam-tatanan-hukum-indonesia/"
+  },
+  52: {
+    "langsung": "https://kbbi.web.id/milik"
+  },
+  53: {
+    "langsung": "https://kbbi.web.id/usaha"
+  },
+  54: {
+    "langsung": "https://kbbi.web.id/dagang"
+  },
+  57: {
+    "langsung": "https://kbbi.web.id/pailit"
+  },
+  60: {
+    "langsung": "https://kbbi.web.id/pailit"
+  },
+  66: {
+    "langsung": "https://kbbi.web.id/debitor"
+  },
+  69: {
+    "langsung": "https://kbbi.web.id/kreditor"
   },
   78: {
     "halaman": "Hal. 731 (berkas PDF hal. 5)",
@@ -225,6 +282,15 @@ window.BUKTI = {
     ],
     "kutipan": "Kualifikasi hukum ini membawa implikasi yuridis penting dalam berbagai aspek keperdataan, termasuk perlindungan hak kebendaan, peralihan hak, perpajakan, penggunaan sebagai objek jaminan, dan aspek pewarisan aset kripto."
   },
+  87: {
+    "langsung": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/RDKB-Mei-2026.aspx"
+  },
+  88: {
+    "langsung": "https://blog.indodax.com/bitcoin-pizza-day-2026-jadi-refleksi-indodax-sebut-kripto-tak-lagi-sekadar-eksperimen-teknologi/"
+  },
+  89: {
+    "langsung": "https://help.indodax.com/hc/id/articles/4416650994585-SYARAT-DAN-KETENTUAN-UMUM"
+  },
   91: {
     "halaman": "Hal. 1005 (berkas PDF hal. 2)",
     "gambar": [
@@ -305,6 +371,18 @@ window.BUKTI = {
     ],
     "kutipan": "Meskipun masih dalam masa transisi, OJK telah menerbitkan Rancangan Peraturan OJK (RPOJK) tentang Penyelenggaraan Perdagangan Aset Keuangan Digital dan Aset Kripto, yang mencakup berbagai aspek seperti perizinan, tata kelola, perlindungan konsumen, dan perlindungan data pribadi."
   },
+  100: {
+    "langsung": "https://www.hukumonline.com/berita/a/ojk-perluas-aturan-perdagangan-aset-digital--derivatif-kripto-masuk-radar-pengawasan-lt6936595473363/"
+  },
+  101: {
+    "langsung": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/OJK-Terbitkan-Whitelist-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Dan-Aset-Kripto-Berizin.aspx"
+  },
+  102: {
+    "langsung": "https://www.kliringkomoditi.id/cara-kerja-lembaga-kliring/"
+  },
+  103: {
+    "langsung": "https://indodax.com/academy/penyimpanan-dana-nasabah-kripto-lokal/"
+  },
   106: {
     "halaman": "Hal. 95",
     "gambar": [
@@ -314,6 +392,9 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Dimana mekanismme kepailitan memiliki tujuan untuk menghindari debitor ditagih secara bersamaan oleh para kreditornya, untuk menghindari kreditor yang merugikan kreditor lainnya, dan menghindari debitor melakukan kecurangan yang dapat merugikan kreditornya (Ratu Alawiyyah Rifani, Fauziah, & Muhammad Fahruddin, 2021). Oleh karena itu, penyelesaian utang piutang melalui mekanisme kepailitan harus dapat memenuhi tujuan yang hendak dicapai berdasarkan UUKPKPU. Apabila tidak dapat dicapai maka sebaiknya penyelesaian utang piutang tersebut menggunakan penyelesaian hukum yang lain."
+  },
+  107: {
+    "langsung": "https://www.djkn.kemenkeu.go.id/artikel/baca/13451/Kepailitan-dan-Akibat-Kepailitan-Terhadap-Kewenangan-Debitur-Pailit-Dalam-Bidang-Hukum-Kekayaan.html"
   },
   108: {
     "halaman": "Hal. 157 (kolom kiri)",
@@ -325,6 +406,9 @@ window.BUKTI = {
     ],
     "kutipan": "memungkinkan penyelesaian utang dilakukan secara kolektif,14 sehingga tidak terjadi tindakan penagihan secara sepihak oleh masing-masing kreditor.15 Dengan adanya kepailitan, seluruh harta kekayaan debitor ditempatkan dalam suatu proses pengurusan dan pemberesan16 yang terpusat di bawah pengawasan hukum."
   },
+  109: {
+    "langsung": "https://marinews.mahkamahagung.go.id/artikel/menjaga-keadilan-dalam-pembagian-hak-kreditor-0OU"
+  },
   114: {
     "halaman": "Hal. 14 (kolom kanan)",
     "gambar": [
@@ -334,6 +418,9 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Urusan tersebut harus diserahkan kepada kurator, kuratorlah yang akan melakukan pengurusan dan pemberesan harta pailit tersebut."
+  },
+  115: {
+    "langsung": "https://www.hukumonline.com/klinik/a/tugas-kurator-dan-hakim-pengawas-dalam-kepailitan-cl738/"
   },
   116: {
     "halaman": "Hal. 194 (berkas PDF hal. 3)",
@@ -355,6 +442,9 @@ window.BUKTI = {
     ],
     "kutipan": "Menurut perspektif praktik peradilan putusan pailit lazimnya berisikan ammar/diktum menyatakan debitur .... pailit beserta akibat hukumnya, kemudian menunjuk Hakim …. pada Pengadilan Niaga .... sebagai Hakim Pengawas dan dan menunjuk …. sebagai Kurator."
   },
+  118: {
+    "langsung": "https://aa-lawoffice.com/panitia-kreditor-dalam-kepailitan/"
+  },
   125: {
     "halaman": "Hal. 308",
     "gambar": [
@@ -375,6 +465,9 @@ window.BUKTI = {
     ],
     "kutipan": "Jenis harta pailit debitor salah satunya berupa intangible asset yaitu harta yang tidak memiliki wujud fisik (Salam, 2014). Intangible asset dalam perkembangannya semakin bervariasi dan salah satu bentuk intangible asset yang berkembang pada saat ini adalah mata uang kripto."
   },
+  128: {
+    "langsung": "https://www.hukumonline.com/stories/article/lt643248453908a/kewenangan-kurator-membereskan-boedel-pailit-debitor/"
+  },
   132: {
     "halaman": "Hal. 58 (kolom kiri)",
     "gambar": [
@@ -384,6 +477,18 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Dengan hak yang dimiliki, Kreditor separatis dapat menjual sendiri barang-barang yang menjadi jaminan, seolah-olah tidak terjadi kepailitan. Dari hasil penjualan tersebut, Kreditor separatismengambil sebesar piutangnya dan sisanya diserahkan ke Kurator sebagai boedel atau harta pailit."
+  },
+  133: {
+    "langsung": "https://www.hukumonline.com/klinik/a/urutan-prioritas-pelunasan-utang-dalam-kepailitan-lt5dca8aad69118/"
+  },
+  134: {
+    "langsung": "https://indodax.com/academy/kreditur-preferen-vs-separatis/"
+  },
+  135: {
+    "langsung": "https://www.hukumonline.com/berita/a/tiga-jenis-kreditur-dalam-perkara-kepailitan-lt62e895eda0096/"
+  },
+  137: {
+    "langsung": "https://dntlawyers.com/masalah-hukum-kepailitan-jika-harta-pailit-tidak-cukup-siapa-saja-pihak-yang-didahulukan-dilunasi-piutangnya/"
   },
   141: {
     "halaman": "Hal. 2",
@@ -437,6 +542,12 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Selanjutnya, kurator dapat menggunakan blockchain forensic tools untuk melacak aliran transaksi dan mengidentifikasi wallet address yang terhubung dengan debitor. Pendekatan ini mencerminkan transformasi metode pembuktian dalam hukum kepailitan, dari yang semula berbasis dokumen fisik menuju analisis data digital berbasis teknologi."
+  },
+  149: {
+    "langsung": "https://www.coindesk.com/business/2022/11/09/binance-walks-away-from-ftx-deal-wsj"
+  },
+  150: {
+    "langsung": "https://restructuring.ra.kroll.com/FTX/"
   },
   152: {
     "halaman": "Hal. 40, Bagian First Day Relief",
@@ -494,6 +605,148 @@ window.BUKTI = {
       }
     ],
     "kutipan": "Perusahaan debitur masih bisa beroperasi dan sambil melakukan kewajibannya untu k melunasi utang kepada para krediturnya dalam Reorganisasi. Mengenai pengajuan Reorgansasi, debitur tidak harus menunggu sampai mengalami keadaan insolven."
+  },
+  158: {
+    "langsung": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics"
+  },
+  159: {
+    "langsung": "https://www.law.cornell.edu/wex/bankruptcy_estate"
+  },
+  160: {
+    "halaman": "Pasal-pasal U.S. Code Title 11 yang dikutip di naskah: § 362, § 507, § 541, § 1104, § 1106, § 1107, § 1121, § 1123, § 1129",
+    "catatan": "Pasal-pasal U.S. Code ini dikutip langsung di teks naskah (lihat keterangan footnote 160). Screenshot diambil dari U.S. Code Title 11 edisi 2011 (berkas yang disediakan penulis), sedangkan footnote 160 merujuk rilis uscode.house.gov 119-111.",
+    "jenis": "dokumen",
+    "gambar": [
+      {
+        "src": "img./fn160-1-asli.png",
+        "ket": "§ 362(a)(1), (3), (6) — hal. 73",
+        "src_id": "img./fn160-1-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-2-asli.png",
+        "ket": "§ 362(c)(1) — hal. 75",
+        "src_id": "img./fn160-2-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-3-asli.png",
+        "ket": "§ 362(d)(1)–(2) — hal. 76",
+        "src_id": "img./fn160-3-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-4-asli.png",
+        "ket": "§ 362(g) — hal. 77",
+        "src_id": "img./fn160-4-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-5-asli.png",
+        "ket": "§ 362(k)(1) — hal. 78",
+        "src_id": "img./fn160-5-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-6-asli.png",
+        "ket": "§ 507(a) — hal. 112",
+        "src_id": "img./fn160-6-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-7-asli.png",
+        "ket": "§ 507(a)(2) — hal. 112 (kolom kiri, berlanjut ke kolom kanan)",
+        "src_id": "img./fn160-7-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-8-asli.png",
+        "ket": "Lanjutan § 507(a)(2) — hal. 112 (kolom kanan)",
+        "src_id": "img./fn160-8-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-9-asli.png",
+        "ket": "§ 507(a)(8) — hal. 112",
+        "src_id": "img./fn160-9-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-10-asli.png",
+        "ket": "§ 541(a)(1) — hal. 153",
+        "src_id": "img./fn160-10-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-11-asli.png",
+        "ket": "§ 541(c)(1)–(2) — hal. 155",
+        "src_id": "img./fn160-11-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-12-asli.png",
+        "ket": "§ 541(d) — hal. 155",
+        "src_id": "img./fn160-12-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-13-asli.png",
+        "ket": "§ 1104(a) — hal. 231",
+        "src_id": "img./fn160-13-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-14-asli.png",
+        "ket": "§ 1104(c) — hal. 231",
+        "src_id": "img./fn160-14-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-15-asli.png",
+        "ket": "§ 1104(e) — hal. 231",
+        "src_id": "img./fn160-15-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-16-asli.png",
+        "ket": "§ 1106(a)(3) — hal. 233",
+        "src_id": "img./fn160-16-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-17-asli.png",
+        "ket": "§ 1106(a)(4) — hal. 233",
+        "src_id": "img./fn160-17-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-18-asli.png",
+        "ket": "§ 1107(a) — hal. 235",
+        "src_id": "img./fn160-18-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-19-asli.png",
+        "ket": "§ 1121(a) dan (c) — hal. 244",
+        "src_id": "img./fn160-19-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-20-asli.png",
+        "ket": "Lanjutan § 1121(c) — hal. 244",
+        "src_id": "img./fn160-20-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-21-asli.png",
+        "ket": "§ 1123(a)(1) — hal. 245",
+        "src_id": "img./fn160-21-terjemahan.png"
+      },
+      {
+        "src": "img./fn160-22-asli.png",
+        "ket": "§ 1129(a)(1) — hal. 254",
+        "src_id": "img./fn160-22-terjemahan.png"
+      }
+    ],
+    "kutipan": "(a) Except as provided in subsection (b) of this section, a petition filed under section 301, 302, or 303 of this title, or an application filed under section 5(a)(3) of the Securities Investor Protection Act of 1970, operates as a stay, applicable to all entities, of— (1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against the debtor that was or could have been commenced before the commencement of the case under this title, or to recover a claim against the debtor that arose before the commencement of the case under this title; (3) any act to obtain possession of property of the estate or of property from the estate or to exercise control over property of the estate; (6) any act to collect, assess, or recover a claim against the debtor that arose before the commencement of the case under this title;\n\n(c) Except as provided in subsections (d), (e), (f), and (h) of this section— (1) the stay of an act against property of the estate under subsection (a) of this section continues until such property is no longer property of the estate;\n\n(d) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided under subsection (a) of this section, such as by terminating, annulling, modifying, or conditioning such stay— (1) for cause, including the lack of adequate protection of an interest in property of such party in interest; (2) with respect to a stay of an act against property under subsection (a) of this section, if— (A) the debtor does not have an equity in such property; and (B) such property is not necessary to an effective reorganization;\n\n(g) In any hearing under subsection (d) or (e) of this section concerning relief from the stay of any act under subsection (a) of this section— (1) the party requesting such relief has the burden of proof on the issue of the debtor’s equity in property; and (2) the party opposing such relief has the burden of proof on all other issues.\n\n(k)(1) Except as provided in paragraph (2), an individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys’ fees, and, in appropriate circumstances, may recover punitive damages.\n\n§507. Priorities (a) The following expenses and claims have priority in the following order:\n\n(2) Second, administrative expenses allowed under section 503(b) of this title, unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),1 and any fees and\n\ncharges assessed against the estate under chapter 123 of title 28.\n\n(8) Eighth, allowed unsecured claims of governmental units, only to the extent that such claims are for\n\n§541. Property of the estate (a) The commencement of a case under section 301, 302, or 303 of this title creates an estate. Such estate is comprised of all the following property, wherever located and by whomever held: (1) Except as provided in subsections (b) and (c)(2) of this section, all legal or equitable interests of the debtor in property as of the commencement of the case.\n\n(c)(1) Except as provided in paragraph (2) of this subsection, an interest of the debtor in property becomes property of the estate under subsection (a)(1), (a)(2), or (a)(5) of this section notwithstanding any provision in an agreement, transfer instrument, or applicable nonbankruptcy law— (A) that restricts or conditions transfer of such interest by the debtor; or (B) that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title, or on the appointment of or taking possession by a trustee in a case under this title or a custodian before such commencement, and that effects or gives an option to effect a forfeiture, modification, or termination of the debtor’s interest in property. (2) A restriction on the transfer of a beneficial interest of the debtor in a trust that is enforceable under applicable nonbankruptcy law is enforceable in a case under this title.\n\n(d) Property in which the debtor holds, as of the commencement of the case, only legal title and not an equitable interest, such as a mortgage secured by real property, or an interest in such a mortgage, sold by the debtor but as to which the debtor retains legal title to service or supervise the servicing of such mortgage or interest, becomes property of the estate under subsection (a)(1) or (2) of this section only to the extent of the debtor’s legal title to such property, but not to the extent of any equitable interest in such property that the debtor does not hold.\n\n§1104. Appointment of trustee or examiner (a) At any time after the commencement of the case but before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of a trustee— (1) for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor by current management, either before or after the commencement of the case, or similar cause, but not including the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor; or (2) if such appointment is in the interests of creditors, any equity security holders, and other interests of the estate, without regard to the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor.\n\n(c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if— (1) such appointment is in the interests of creditors, any equity security holders, and other interests of the estate; or (2) the debtor’s fixed, liquidated, unsecured debts, other than debts for goods, services, or taxes, or owing to an insider, exceed $5,000,000.\n\n(e) The United States trustee shall move for the appointment of a trustee under subsection (a) if there are reasonable grounds to suspect that current members of the governing body of the debtor, the debtor’s chief executive or chief financial officer, or members of the governing body who selected the debtor’s chief executive or chief financial officer, participated in actual fraud, dishonesty, or criminal conduct in the management of the debtor or the debtor’s public financial reporting.\n\n§1106. Duties of trustee and examiner (a) A trustee shall (3) except to the extent that the court orders otherwise, investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor’s business and the desirability of the continuance of such business, and any other matter relevant to the case or to the formulation of a plan;\n\n(4) as soon as practicable— (A) file a statement of any investigation conducted under paragraph (3) of this subsection, including any fact ascertained pertaining to fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor, or to a cause of action available to the estate; and (B) transmit a copy or a summary of any such statement to any creditors’ committee or equity security holders’ committee, to any indenture trustee, and to such other entity as the court designates;\n\n§1107. Rights, powers, and duties of debtor in possession (a) Subject to any limitations on a trustee serving in a case under this chapter, and to such limitations or conditions as the court prescribes, a debtor in possession shall have all the rights, other than the right to compensation under section 330 of this title, and powers, and shall perform all the functions and duties, except the duties specified in sections 1106(a)(2), (3), and (4) of this title, of a trustee serving in a case under this chapter.\n\n§1121. Who may file a plan (a) The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case. (c) Any party in interest, including the debtor, the trustee, a creditors’ committee, an equity\n\nsecurity holders’ committee, a creditor, an equity security holder, or any indenture trustee, may file a plan if and only if— (1) a trustee has been appointed under this chapter; (2) the debtor has not filed a plan before 120 days after the date of the order for relief under this chapter; or (3) the debtor has not filed a plan that has been accepted, before 180 days after the date of the order for relief under this chapter, by each class of claims or interests that is impaired under the plan.\n\n§1123. Contents of plan (a) Notwithstanding any otherwise applicable nonbankruptcy law, a plan shall— (1) designate, subject to section 1122 of this title, classes of claims, other than claims of a kind specified in section 507(a)(2), 507(a)(3), or 507(a)(8) of this title, and classes of interests;\n\n§1129. Confirmation of plan (a) The court shall confirm a plan only if all of the following requirements are met: (1) The plan complies with the applicable provisions of this title.",
+    "terjemahan": "§ 362. Penangguhan otomatis (automatic stay)\n\n(a) Kecuali sebagaimana diatur dalam subsection (b) dari section ini, permohonan yang diajukan berdasarkan section 301, 302, atau 303 dari title ini, atau permohonan yang diajukan berdasarkan section 5(a)(3) Securities Investor Protection Act of 1970, berlaku sebagai penangguhan (stay), yang berlaku terhadap semua entitas, atas—\n\n(1) dimulainya atau dilanjutkannya, termasuk penerbitan atau penggunaan proses, suatu tindakan atau proses peradilan, administratif, atau lainnya terhadap debitor yang telah atau dapat dimulai sebelum dimulainya perkara berdasarkan title ini, atau untuk memulihkan suatu klaim terhadap debitor yang timbul sebelum dimulainya perkara berdasarkan title ini;\n\n(2) …\n\n(3) setiap tindakan untuk memperoleh penguasaan atas harta pailit (property of the estate) atau atas harta dari harta pailit, atau untuk melakukan kendali atas harta pailit;\n\n(4)–(5) …\n\n(6) setiap tindakan untuk menagih, menetapkan, atau memulihkan suatu klaim terhadap debitor yang timbul sebelum dimulainya perkara berdasarkan title ini;\n\n(c) Kecuali sebagaimana diatur dalam subsections (d), (e), (f), dan (h) dari section ini—\n\n(1) penangguhan atas suatu tindakan terhadap harta pailit berdasarkan subsection (a) dari section ini berlanjut sampai harta tersebut tidak lagi menjadi harta pailit;\n\n(d) Atas permintaan pihak yang berkepentingan dan setelah pemberitahuan serta sidang, pengadilan wajib memberikan pembebasan dari penangguhan yang diatur dalam subsection (a) dari section ini, seperti dengan mengakhiri, membatalkan, mengubah, atau memberi syarat atas penangguhan tersebut—\n\n(1) karena alasan yang sah (for cause), termasuk tidak adanya perlindungan yang memadai (adequate protection) atas kepentingan pihak yang berkepentingan tersebut dalam suatu harta;\n\n(2) sehubungan dengan penangguhan atas suatu tindakan terhadap harta berdasarkan subsection (a) dari section ini, apabila—\n(A) debitor tidak memiliki ekuitas atas harta tersebut; dan\n(B) harta tersebut tidak diperlukan untuk reorganisasi yang efektif;\n\n(g) Dalam setiap sidang berdasarkan subsection (d) atau (e) dari section ini mengenai pembebasan dari penangguhan atas suatu tindakan berdasarkan subsection (a) dari section ini—\n\n(1) pihak yang meminta pembebasan tersebut menanggung beban pembuktian mengenai ekuitas debitor atas harta tersebut; dan\n\n(2) pihak yang menentang pembebasan tersebut menanggung beban pembuktian atas semua persoalan lainnya.\n\n(k)(1) Kecuali sebagaimana diatur dalam paragraph (2), seorang individu yang dirugikan oleh setiap pelanggaran yang disengaja (willful violation) atas penangguhan yang diatur dalam section ini berhak memperoleh ganti rugi aktual, termasuk biaya perkara dan honorarium advokat, dan, dalam keadaan tertentu, dapat memperoleh ganti rugi yang bersifat menghukum (punitive damages).\n\n§ 507. Prioritas\n\n(a) Biaya dan klaim berikut memiliki prioritas dengan urutan sebagai berikut:\n\n(2) Kedua, biaya administrasi yang diakui berdasarkan section 503(b) dari title ini, klaim tanpa jaminan dari Federal Reserve Bank yang berkaitan dengan pinjaman yang diberikan melalui program atau fasilitas yang diotorisasi berdasarkan section 13(3) Federal Reserve Act (12 U.S.C. 343), serta setiap biaya dan\n\npungutan yang dibebankan terhadap harta pailit berdasarkan chapter 123 dari title 28.\n\n(8) Kedelapan, klaim tanpa jaminan yang diakui milik unit pemerintahan (governmental units), hanya sepanjang klaim tersebut adalah untuk— …\n\n§ 541. Harta pailit (property of the estate)\n\n(a) Dimulainya suatu perkara berdasarkan section 301, 302, atau 303 dari title ini menciptakan suatu harta pailit (estate). Harta pailit tersebut terdiri atas seluruh harta berikut, di mana pun letaknya dan oleh siapa pun harta itu dikuasai:\n\n(1) Kecuali sebagaimana diatur dalam subsections (b) dan (c)(2) dari section ini, seluruh kepentingan hukum (legal) maupun kepentingan manfaat (equitable) debitor atas harta per saat dimulainya perkara.\n\n(c)(1) Kecuali sebagaimana diatur dalam paragraph (2) dari subsection ini, suatu kepentingan debitor atas harta menjadi harta pailit berdasarkan subsection (a)(1), (a)(2), atau (a)(5) dari section ini, terlepas dari ketentuan apa pun dalam suatu perjanjian, instrumen pengalihan, atau hukum non-kepailitan yang berlaku—\n(A) yang membatasi atau memberi syarat atas pengalihan kepentingan tersebut oleh debitor; atau\n(B) yang dikaitkan dengan keadaan insolvensi atau kondisi keuangan debitor, dengan dimulainya suatu perkara berdasarkan title ini, atau dengan penunjukan atau pengambilalihan penguasaan oleh trustee dalam suatu perkara berdasarkan title ini atau oleh kustodian sebelum dimulainya perkara tersebut, dan yang mengakibatkan atau memberikan pilihan untuk mengakibatkan hilangnya, perubahan, atau berakhirnya kepentingan debitor atas harta tersebut.\n\n(2) Pembatasan atas pengalihan kepentingan manfaat (beneficial interest) debitor dalam suatu trust yang dapat dilaksanakan berdasarkan hukum non-kepailitan yang berlaku, tetap dapat dilaksanakan dalam perkara berdasarkan title ini.\n\n(d) Harta yang atasnya debitor, per saat dimulainya perkara, hanya memegang hak milik secara hukum (legal title) dan bukan kepentingan manfaat (equitable interest), seperti hipotek yang dijamin dengan harta tidak bergerak, atau kepentingan atas hipotek tersebut, yang telah dijual oleh debitor tetapi debitor tetap memegang hak milik secara hukum untuk mengelola atau mengawasi pengelolaan hipotek atau kepentingan tersebut, menjadi harta pailit berdasarkan subsection (a)(1) atau (2) dari section ini hanya sebatas hak milik secara hukum debitor atas harta tersebut, tetapi tidak sebatas kepentingan manfaat atas harta tersebut yang tidak dipegang oleh debitor.\n\n§ 1104. Penunjukan trustee atau examiner\n\n(a) Kapan pun setelah dimulainya perkara tetapi sebelum konfirmasi rencana, atas permintaan pihak yang berkepentingan atau United States trustee, dan setelah pemberitahuan serta sidang, pengadilan wajib memerintahkan penunjukan seorang trustee—\n\n(1) karena alasan yang sah (for cause), termasuk penipuan, ketidakjujuran, ketidakcakapan, atau salah urus yang berat atas urusan debitor oleh manajemen yang sedang menjabat, baik sebelum maupun setelah dimulainya perkara, atau alasan serupa, tetapi tidak termasuk jumlah pemegang efek debitor atau jumlah aset atau kewajiban debitor; atau\n\n(2) apabila penunjukan tersebut demi kepentingan kreditor, pemegang efek ekuitas, dan kepentingan lain dari harta pailit, tanpa memperhatikan jumlah pemegang efek debitor atau jumlah aset atau kewajiban debitor.\n\n(c) Apabila pengadilan tidak memerintahkan penunjukan trustee berdasarkan section ini, maka kapan pun sebelum konfirmasi rencana, atas permintaan pihak yang berkepentingan atau United States trustee, dan setelah pemberitahuan serta sidang, pengadilan wajib memerintahkan penunjukan seorang examiner untuk melakukan investigasi terhadap debitor sebagaimana patut, termasuk investigasi atas setiap dugaan penipuan, ketidakjujuran, ketidakcakapan, pelanggaran, salah urus, atau ketidakberesan dalam pengelolaan urusan debitor oleh manajemen debitor yang sedang atau pernah menjabat, apabila—\n\n(1) penunjukan tersebut demi kepentingan kreditor, pemegang efek ekuitas, dan kepentingan lain dari harta pailit; atau\n\n(2) utang debitor yang pasti, telah ditentukan jumlahnya, dan tanpa jaminan, selain utang atas barang, jasa, atau pajak, atau utang kepada orang dalam (insider), melebihi $5.000.000.\n\n(e) United States trustee wajib mengajukan permohonan penunjukan trustee berdasarkan subsection (a) apabila terdapat alasan yang wajar untuk menduga bahwa anggota badan pengurus debitor yang sedang menjabat, chief executive officer atau chief financial officer debitor, atau anggota badan pengurus yang memilih chief executive officer atau chief financial officer debitor, terlibat dalam penipuan nyata (actual fraud), ketidakjujuran, atau tindak pidana dalam pengelolaan debitor atau dalam pelaporan keuangan publik debitor.\n\n§ 1106. Tugas trustee dan examiner\n\n(a) Trustee wajib—\n\n(1)–(2) …\n\n(3) kecuali sepanjang pengadilan memerintahkan lain, menyelidiki tindakan, perilaku, aset, kewajiban, dan kondisi keuangan debitor, jalannya usaha debitor dan layak tidaknya usaha tersebut dilanjutkan, serta hal lain yang relevan dengan perkara atau dengan penyusunan suatu rencana;\n\n(4) sesegera mungkin—\n(A) mengajukan laporan atas setiap investigasi yang dilakukan berdasarkan paragraph (3) dari subsection ini, termasuk setiap fakta yang ditemukan berkenaan dengan penipuan, ketidakjujuran, ketidakcakapan, pelanggaran, salah urus, atau ketidakberesan dalam pengelolaan urusan debitor, atau berkenaan dengan hak gugat (cause of action) yang tersedia bagi harta pailit; dan\n(B) menyampaikan salinan atau ringkasan laporan tersebut kepada komite kreditor atau komite pemegang efek ekuitas, kepada indenture trustee, dan kepada entitas lain yang ditetapkan pengadilan;\n\n§ 1107. Hak, kewenangan, dan kewajiban debitor yang tetap menguasai harta (debtor in possession)\n\n(a) Dengan tunduk pada setiap pembatasan terhadap trustee yang bertugas dalam perkara berdasarkan chapter ini, serta pada pembatasan atau syarat yang ditetapkan pengadilan, debtor in possession memiliki seluruh hak, kecuali hak atas kompensasi berdasarkan section 330 dari title ini, dan kewenangan, serta wajib melaksanakan seluruh fungsi dan kewajiban, kecuali kewajiban yang ditentukan dalam sections 1106(a)(2), (3), dan (4) dari title ini, dari seorang trustee yang bertugas dalam perkara berdasarkan chapter ini.\n\n§ 1121. Pihak yang dapat mengajukan rencana\n\n(a) Debitor dapat mengajukan rencana bersamaan dengan permohonan yang memulai perkara sukarela, atau kapan pun dalam perkara sukarela maupun perkara tidak sukarela.\n\n(b) …\n\n(c) Setiap pihak yang berkepentingan, termasuk debitor, trustee, komite kreditor, komite pemegang efek\n\nekuitas, kreditor, pemegang efek ekuitas, atau indenture trustee, dapat mengajukan rencana jika dan hanya jika—\n(1) telah ditunjuk seorang trustee berdasarkan chapter ini;\n(2) debitor belum mengajukan rencana sebelum 120 hari setelah tanggal perintah pemberian keringanan (order for relief) berdasarkan chapter ini; atau\n(3) debitor belum mengajukan rencana yang telah diterima, sebelum 180 hari setelah tanggal perintah pemberian keringanan berdasarkan chapter ini, oleh setiap kelas klaim atau kepentingan yang terdampak (impaired) berdasarkan rencana tersebut.\n\n§ 1123. Isi rencana\n\n(a) Terlepas dari ketentuan hukum non-kepailitan yang berlaku, suatu rencana wajib—\n\n(1) menetapkan, dengan tunduk pada section 1122 dari title ini, kelas-kelas klaim, selain klaim dari jenis yang ditentukan dalam section 507(a)(2), 507(a)(3), atau 507(a)(8) dari title ini, serta kelas-kelas kepentingan;\n\n§ 1129. Konfirmasi rencana\n\n(a) Pengadilan wajib mengonfirmasi suatu rencana hanya apabila seluruh persyaratan berikut terpenuhi:\n\n(1) Rencana tersebut memenuhi ketentuan-ketentuan yang berlaku dari title ini."
+  },
+  161: {
+    "langsung": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/bankruptcy-basics-glossary"
+  },
+  163: {
+    "halaman": "§ 1107(a) — hal. 235",
+    "catatan": "Footnote ini merujuk teks § 1107 pada laman Cornell LII (Wex); screenshot diambil dari U.S. Code Title 11 edisi 2011 yang memuat teks pasal yang sama.",
+    "jenis": "dokumen",
+    "gambar": [
+      {
+        "src": "img./fn163-1-asli.png",
+        "ket": "§ 1107(a) — hal. 235",
+        "src_id": "img./fn163-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "§1107. Rights, powers, and duties of debtor in possession (a) Subject to any limitations on a trustee serving in a case under this chapter, and to such limitations or conditions as the court prescribes, a debtor in possession shall have all the rights, other than the right to compensation under section 330 of this title, and powers, and shall perform all the functions and duties, except the duties specified in sections 1106(a)(2), (3), and (4) of this title, of a trustee serving in a case under this chapter.",
+    "terjemahan": "§ 1107. Hak, kewenangan, dan kewajiban debitor yang tetap menguasai harta (debtor in possession)\n\n(a) Dengan tunduk pada setiap pembatasan terhadap trustee yang bertugas dalam perkara berdasarkan chapter ini, serta pada pembatasan atau syarat yang ditetapkan pengadilan, debtor in possession memiliki seluruh hak, kecuali hak atas kompensasi berdasarkan section 330 dari title ini, dan kewenangan, serta wajib melaksanakan seluruh fungsi dan kewajiban, kecuali kewajiban yang ditentukan dalam sections 1106(a)(2), (3), dan (4) dari title ini, dari seorang trustee yang bertugas dalam perkara berdasarkan chapter ini."
   },
   165: {
     "halaman": "Hal. 2, paragraf 5",
@@ -608,6 +861,9 @@ window.BUKTI = {
     "kutipan": "Segregated models – Under segregated models, a custodian separates clients’ assets, so that client assets are not commingled with the assets of another client or of the custody provider.",
     "terjemahan": "Model tersegregasi – Dalam model tersegregasi, kustodian memisahkan aset para kliennya, sehingga aset klien tidak tercampur dengan aset klien lain maupun aset milik penyedia jasa kustodian."
   },
+  174: {
+    "langsung": "https://www.cftc.gov/PressRoom/PressReleases/8638-22"
+  },
   175: {
     "halaman": "Hal. 10, klausul 8.2.6",
     "gambar": [
@@ -672,6 +928,9 @@ window.BUKTI = {
     ],
     "kutipan": "Notwithstanding extensive work by experts in forensic accounting, asset tracing and recovery, and blockchain analytics, among other areas, it is extremely challenging to trace substantial assets of the Debtors to any particular source of funding, or to differentiate between the FTX Group’s operating funds and deposits made by its customers.",
     "terjemahan": "Meskipun telah dilakukan upaya ekstensif oleh para ahli di bidang akuntansi forensik, penelusuran dan pemulihan aset, serta analitik blockchain, di antara bidang lainnya, sangat sulit untuk menelusuri aset-aset substansial milik Debitor ke sumber pendanaan tertentu, atau untuk membedakan antara dana operasional FTX Group dan simpanan yang dilakukan oleh nasabahnya."
+  },
+  180: {
+    "langsung": "https://clsbluesky.law.columbia.edu/2017/11/13/tracing-equity-how-the-bankruptcy-code-respects-state-law-entitlements/"
   },
   181: {
     "halaman": "Hal. 2–3 laporan (berkas PDF hal. 7–8)",
