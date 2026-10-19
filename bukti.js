@@ -14,7 +14,7 @@ window.BUKTI = {
     "halaman": "Hal. 3099 (berkas PDF hal. 8)",
     "gambar": [
       {
-        "src": "img/fn144-1-asli.png",
+        "src": "img./fn144-1-asli.png",
         "ket": "JIHHP Vol. 6 No. 4, hal. 3099"
       }
     ],
@@ -24,7 +24,7 @@ window.BUKTI = {
     "halaman": "Hal. 3099 (berkas PDF hal. 8)",
     "gambar": [
       {
-        "src": "img/fn145-1-asli.png",
+        "src": "img./fn145-1-asli.png",
         "ket": "JIHHP Vol. 6 No. 4, hal. 3099"
       }
     ],
@@ -35,9 +35,9 @@ window.BUKTI = {
     "catatan": "Tahun “November 23, 2023” tertulis demikian dalam dokumen aslinya.",
     "gambar": [
       {
-        "src": "img/fn152-1-asli.png",
+        "src": "img./fn152-1-asli.png",
         "ket": "Disclosure Statement, hal. 40",
-        "src_id": "img/fn152-1-terjemahan.png"
+        "src_id": "img./fn152-1-terjemahan.png"
       }
     ],
     "kutipan": "Shortly after the Petition Date, the Debtors filed numerous motions seeking relief to stabilize the Debtors and to facilitate the consolidated administration of these Chapter 11 Cases (the “First Day Motions”). On November 22, 2022 and November 23, 2023, the Bankruptcy Court entered orders approving the First Day Motions (the “First Day Orders”), with certain approvals on an interim basis. Among other things, the First Day Orders allowed the Debtors to administer these Chapter 11 Cases in a streamlined and consolidated manner and to continue certain activities not specifically authorized under the Bankruptcy Code or as to which the Bankruptcy Code requires prior court approval. In particular, the First Day Orders authorized the Debtors to: • jointly administer these Chapter 11 Cases for procedural purposes; • serve certain documents on parties-in-interest via email and to redact certain customer information from publicly filed documents; • file a consolidated list of the Debtors’ top 50 creditors in lieu of each Debtor filing a list of its 20 largest unsecured creditors; • extend the time to prepare and file schedules of assets and liabilities and statements of financial affairs; • establish notice and objection procedures for transfers of certain equity securities in the Debtors and claims of worthless stock deductions; • pay prepetition claims of certain vendors and lienholders; and • pay prepetition compensation and reimbursable expenses, pay and honor benefits and other programs and continue workforce obligations.",
@@ -47,9 +47,9 @@ window.BUKTI = {
     "halaman": "Hal. 7, paragraf 6",
     "gambar": [
       {
-        "src": "img/fn153-1-asli.png",
+        "src": "img./fn153-1-asli.png",
         "ket": "Findings of Fact … Confirming the Plan, hal. 7 ¶6",
-        "src_id": "img/fn153-1-terjemahan.png"
+        "src_id": "img./fn153-1-terjemahan.png"
       }
     ],
     "kutipan": "On December 15, 2022, Andrew R. Vara, the United States Trustee for Region 3 (the “U.S. Trustee”), appointed an official committee of unsecured creditors (the “Official Committee”) pursuant to section 1102 of the Bankruptcy Code to represent the interests of unsecured creditors in these Chapter 11 Cases [D.I. 231].",
@@ -59,9 +59,9 @@ window.BUKTI = {
     "halaman": "Hal. 5, angka 6 (Meeting of creditors)",
     "gambar": [
       {
-        "src": "img/fn154-1-asli.png",
+        "src": "img./fn154-1-asli.png",
         "ket": "Official Form 309F, hal. 5",
-        "src_id": "img/fn154-1-terjemahan.png"
+        "src_id": "img./fn154-1-terjemahan.png"
       }
     ],
     "kutipan": "Meeting of creditors Tuesday, December 20, 2022 ____________________________ Date The Debtors' representative To be held telephonically. To must attend the meeting to at 10:00 a.m. (Eastern Time) Location: join the meeting, please call be questioned under oath. 888-790-3561 and use access Creditors may attend, but Time code 7861992. are not required to do so.",
@@ -71,9 +71,9 @@ window.BUKTI = {
     "halaman": "Hal. 2, paragraf 5",
     "gambar": [
       {
-        "src": "img/fn165-1-asli.png",
+        "src": "img./fn165-1-asli.png",
         "ket": "Declaration of John J. Ray III, hal. 2 ¶5",
-        "src_id": "img/fn165-1-terjemahan.png"
+        "src_id": "img./fn165-1-terjemahan.png"
       }
     ],
     "kutipan": "Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here. From compromised systems integrity and faulty regulatory oversight abroad, to the concentration of control in the hands of a very small group of inexperienced, unsophisticated and potentially compromised individuals, this situation is unprecedented.",
@@ -83,14 +83,14 @@ window.BUKTI = {
     "halaman": "Hal. 1–2",
     "gambar": [
       {
-        "src": "img/fn166-1-asli.png",
+        "src": "img./fn166-1-asli.png",
         "ket": "Order Denying Appointment of Examiner, hal. 1",
-        "src_id": "img/fn166-1-terjemahan.png"
+        "src_id": "img./fn166-1-terjemahan.png"
       },
       {
-        "src": "img/fn166-2-asli.png",
+        "src": "img./fn166-2-asli.png",
         "ket": "Hal. 2 (ditandatangani Hakim John T. Dorsey, 21 Februari 2023)",
-        "src_id": "img/fn166-2-terjemahan.png"
+        "src_id": "img./fn166-2-terjemahan.png"
       }
     ],
     "kutipan": "ORDER DENYING MOTION FOR THE APPOINTMENT OF AN EXAMINER Upon consideration of the Motion of the United States Trustee for Entry of an Order Directing the Appointment of an Examiner\n\nThe Motion is DENIED.",
@@ -100,19 +100,19 @@ window.BUKTI = {
     "halaman": "Hal. 7, 13, dan 16",
     "gambar": [
       {
-        "src": "img/fn167-1-asli.png",
+        "src": "img./fn167-1-asli.png",
         "ket": "In re FTX Trading Ltd. (3d Cir. 2024), hal. 7",
-        "src_id": "img/fn167-1-terjemahan.png"
+        "src_id": "img./fn167-1-terjemahan.png"
       },
       {
-        "src": "img/fn167-2-asli.png",
+        "src": "img./fn167-2-asli.png",
         "ket": "Hal. 13",
-        "src_id": "img/fn167-2-terjemahan.png"
+        "src_id": "img./fn167-2-terjemahan.png"
       },
       {
-        "src": "img/fn167-3-asli.png",
+        "src": "img./fn167-3-asli.png",
         "ket": "Hal. 16",
-        "src_id": "img/fn167-3-terjemahan.png"
+        "src_id": "img./fn167-3-terjemahan.png"
       }
     ],
     "kutipan": "The Bankruptcy Court agreed with those who opposed the motion and ruled the appointment of an examiner was discretionary under the Code. JA 17–18. The Court acknowledged FTX Group’s unsecured debt far exceeded $5 million but found the phrase “as is appropriate” in Section 1104(c) allowed it to deny the U.S. Trustee’s motion to appoint an examiner, despite the statutory requirements having been met.\n\nSecond, while a bankruptcy court must appoint an examiner if the statutory requirements are met, the phrase “as is appropriate” in Section 1104(c) means the court “retains broad discretion to direct the examiner’s investigation,” including its scope, degree, duration, and cost.\n\nFor the foregoing reasons, we reverse the decision of the Bankruptcy Court and remand with instructions to order the appointment of an examiner under 11 U.S.C. § 1104(c)(2).",
@@ -123,9 +123,9 @@ window.BUKTI = {
     "catatan": "Footnote di naskah tidak mencantumkan halaman; bagian ini diambil dari hal. 3 dokumen.",
     "gambar": [
       {
-        "src": "img/fn168-1-asli.png",
+        "src": "img./fn168-1-asli.png",
         "ket": "Motion of the Examiner, hal. 3",
-        "src_id": "img/fn168-1-terjemahan.png"
+        "src_id": "img./fn168-1-terjemahan.png"
       }
     ],
     "kutipan": "On February 23, 2024, the Court entered an order directing the U.S. Trustee to appoint an examiner in the Debtors’ cases, ECF No. 7909. 9. On February 27, 2024, the U.S. Trustee filed the Notice of Appointment of Examiner, ECF No. 8047, and the (I) Application of the United States Trustee for Order Approving the Appointment of Robert J. Cleary, Esq. as Examiner; (II) Motion for Entry of an Order (A) Establishing the Scope, Cost, Degree, and Duration of the Initial Phase of the Examination and (B) Granting Relief; and (III) Motion to File Certain Information Regarding Potential Parties in Interest Under Seal, ECF No. 8048. 10. The Court held a hearing on March 20, 2024. On March 20, 2024, the Court entered the Order Approving the Appointment of Examiner, ECF No. 9882 (the “Appointment Order”), which approved Mr. Cleary’s appointment as Examiner in these Chapter 11 Cases.",
@@ -135,9 +135,9 @@ window.BUKTI = {
     "halaman": "Hal. 57, paragraf 143",
     "gambar": [
       {
-        "src": "img/fn170-1-asli.png",
+        "src": "img./fn170-1-asli.png",
         "ket": "Findings of Fact … Confirming the Plan, hal. 57 ¶143",
-        "src_id": "img/fn170-1-terjemahan.png"
+        "src_id": "img./fn170-1-terjemahan.png"
       }
     ],
     "kutipan": "Unless otherwise provided in the Plan or in this Confirmation Order, any injunction or stay arising under or entered during these Chapter 11 Cases under section 105 or 362 of the Bankruptcy Code or otherwise that is in existence on the Confirmation Date (excluding any injunctions or stays contained in the Plan or this Confirmation Order) shall remain in full force and effect until the later of the Effective Date and the date indicated in the order providing for such injunction or stay.",
@@ -148,9 +148,9 @@ window.BUKTI = {
     "catatan": "Nomor halaman mengikuti penomoran laporan (-2-), bukan nomor halaman berkas PDF.",
     "gambar": [
       {
-        "src": "img/fn171-1-asli.png",
+        "src": "img./fn171-1-asli.png",
         "ket": "Second Interim Report, hal. 2",
-        "src_id": "img/fn171-1-terjemahan.png"
+        "src_id": "img./fn171-1-terjemahan.png"
       }
     ],
     "kutipan": "In fact, as set forth in this report, from the inception of the FTX.com exchange, the FTX Group commingled customer deposits and corporate funds, and misused them with abandon.",
@@ -160,9 +160,9 @@ window.BUKTI = {
     "halaman": "Hal. 23, paragraf 66",
     "gambar": [
       {
-        "src": "img/fn172-1-asli.png",
+        "src": "img./fn172-1-asli.png",
         "ket": "Declaration of John J. Ray III, hal. 23 ¶66",
-        "src_id": "img/fn172-1-terjemahan.png"
+        "src_id": "img./fn172-1-terjemahan.png"
       }
     ],
     "kutipan": "These balances exclude cryptocurrency not currently under the Debtors’ control as a result of (a) at least $372 million of unauthorized transfers initiated on the Petition Date, during which time the Debtors immediately began moving cryptocurrency into cold storage to mitigate the risk to the remaining cryptocurrency that was accessible at the time,",
@@ -172,9 +172,9 @@ window.BUKTI = {
     "halaman": "Hal. 10, klausul 8.2.6",
     "gambar": [
       {
-        "src": "img/fn175-1-asli.png",
+        "src": "img./fn175-1-asli.png",
         "ket": "FTX Terms of Service (versi CoinDesk), hal. 10",
-        "src_id": "img/fn175-1-terjemahan.png"
+        "src_id": "img./fn175-1-terjemahan.png"
       }
     ],
     "kutipan": "All Digital Assets are held in your Account on the following basis: (A) Title to your Digital Assets shall at all times remain with you and shall not transfer to FTX Trading. As the owner of Digital Assets in your Account, you shall bear all risk of loss of such Digital Assets. FTX Trading shall have no liability for fluctuations in the fiat currency value of Digital Assets held in your Account. (B) None of the Digital Assets in your Account are the property of, or shall or may be loaned to, FTX Trading; FTX Trading does not represent or treat Digital Assets in User’s Accounts as belonging to FTX Trading. (C) You control the Digital Assets held in your Account. At any time, subject to outages, downtime, and other applicable policies (including the Terms), you may withdraw your Digital Assets by sending them to a different blockchain address controlled by you or a third party.",
@@ -184,9 +184,9 @@ window.BUKTI = {
     "halaman": "Hal. 16, angka 22 (Doc 26044-4, Page 16 of 21)",
     "gambar": [
       {
-        "src": "img/fn176-1-asli.png",
+        "src": "img./fn176-1-asli.png",
         "ket": "FTX Exchange: Terms of Service (berkas Kroll), hal. 16",
-        "src_id": "img/fn176-1-terjemahan.png"
+        "src_id": "img./fn176-1-terjemahan.png"
       }
     ],
     "kutipan": "OWNERSHIP OF DIGITAL ASSETS You hereby represent and warrant to us that any Digital Assets used by you in connection with the Services are either owned by you or that you are validly authorized to carry out transactions using such Digital Assets and that all transactions initiated with your Account are for your own Account and not on behalf of any other person or entity.",
@@ -196,14 +196,14 @@ window.BUKTI = {
     "halaman": "Hal. 22–23, paragraf 65",
     "gambar": [
       {
-        "src": "img/fn177-1-asli.png",
+        "src": "img./fn177-1-asli.png",
         "ket": "Declaration of John J. Ray III, hal. 22 ¶65",
-        "src_id": "img/fn177-1-terjemahan.png"
+        "src_id": "img./fn177-1-terjemahan.png"
       },
       {
-        "src": "img/fn177-2-asli.png",
+        "src": "img./fn177-2-asli.png",
         "ket": "Lanjutan, hal. 23",
-        "src_id": "img/fn177-2-terjemahan.png"
+        "src_id": "img./fn177-2-terjemahan.png"
       }
     ],
     "kutipan": "The FTX Group did not keep appropriate books and records, or security controls, with respect to its digital assets. Mr. Bankman-Fried and Mr. Wang controlled access to digital assets of the main businesses in the FTX Group (with the exception of LedgerX, regulated by the CFTC, and certain other regulated and/or licensed subsidiaries). Unacceptable\n\nmanagement practices included the use of an unsecured group email account as the root user to access confidential private keys and critically sensitive data for the FTX Group companies around the world, the absence of daily reconciliation of positions on the blockchain, the use of software to conceal the misuse of customer funds, the secret exemption of Alameda from certain aspects of FTX.com’s auto-liquidation protocol, and the absence of independent governance as between Alameda (owned 90% by Mr. Bankman-Fried and 10% by Mr. Wang) and the Dotcom Silo (in which third parties had invested).",
@@ -213,9 +213,9 @@ window.BUKTI = {
     "halaman": "Hal. 24, paragraf 68",
     "gambar": [
       {
-        "src": "img/fn178-1-asli.png",
+        "src": "img./fn178-1-asli.png",
         "ket": "Declaration of John J. Ray III, hal. 24 ¶68",
-        "src_id": "img/fn178-1-terjemahan.png"
+        "src_id": "img./fn178-1-terjemahan.png"
       }
     ],
     "kutipan": "were not aware of the shortfalls or potential commingling of digital assets.",
@@ -225,9 +225,9 @@ window.BUKTI = {
     "halaman": "Hal. 3 laporan (Exhibit A, Page 6 of 36; berkas PDF hal. 8)",
     "gambar": [
       {
-        "src": "img/fn179-1-asli.png",
+        "src": "img./fn179-1-asli.png",
         "ket": "Second Interim Report, hal. 3",
-        "src_id": "img/fn179-1-terjemahan.png"
+        "src_id": "img./fn179-1-terjemahan.png"
       }
     ],
     "kutipan": "Notwithstanding extensive work by experts in forensic accounting, asset tracing and recovery, and blockchain analytics, among other areas, it is extremely challenging to trace substantial assets of the Debtors to any particular source of funding, or to differentiate between the FTX Group’s operating funds and deposits made by its customers.",
@@ -238,14 +238,14 @@ window.BUKTI = {
     "catatan": "Naskah merujuk Loc.cit. ke footnote 171 (hal. 2); kalimat pada hal. 2 laporan berlanjut ke hal. 3.",
     "gambar": [
       {
-        "src": "img/fn181-1-asli.png",
+        "src": "img./fn181-1-asli.png",
         "ket": "Second Interim Report, hal. 2",
-        "src_id": "img/fn181-1-terjemahan.png"
+        "src_id": "img./fn181-1-terjemahan.png"
       },
       {
-        "src": "img/fn181-2-asli.png",
+        "src": "img./fn181-2-asli.png",
         "ket": "Lanjutan, hal. 3",
-        "src_id": "img/fn181-2-terjemahan.png"
+        "src_id": "img./fn181-2-terjemahan.png"
       }
     ],
     "kutipan": "The Debtors’ ongoing work to trace and recover assets, and maximize recoveries for stakeholders, has been complicated by the\n\nextensive commingling and misuse of funds that occurred there. Notwithstanding extensive work by experts in forensic accounting, asset tracing and recovery, and blockchain analytics, among other areas, it is extremely challenging to trace substantial assets of the Debtors to any particular source of funding, or to differentiate between the FTX Group’s operating funds and deposits made by its customers.",
@@ -255,14 +255,14 @@ window.BUKTI = {
     "halaman": "Hal. 12 (¶20) dan hal. 19 (¶40)",
     "gambar": [
       {
-        "src": "img/fn182-1-asli.png",
+        "src": "img./fn182-1-asli.png",
         "ket": "Findings of Fact, hal. 12 ¶20",
-        "src_id": "img/fn182-1-terjemahan.png"
+        "src_id": "img./fn182-1-terjemahan.png"
       },
       {
-        "src": "img/fn182-2-asli.png",
+        "src": "img./fn182-2-asli.png",
         "ket": "Findings of Fact, hal. 19 ¶40",
-        "src_id": "img/fn182-2-terjemahan.png"
+        "src_id": "img./fn182-2-terjemahan.png"
       }
     ],
     "kutipan": "The factual record establishes that all Digital Assets and Cash held by the FTX Exchanges on or after the Petition Date (“Exchange Assets”) are property of the Debtors’ Estates within the meaning of section 541 of the Bankruptcy Code and can be distributed pursuant to the Plan.\n\nDistributions to customers and creditors shall be made in Cash (other than in Available NFTs) as set forth in Articles 4 and 7 of the Plan; (j) all assets scheduled by the Debtors shall constitute property of the Debtors’ Estates;",
@@ -272,9 +272,9 @@ window.BUKTI = {
     "halaman": "Hal. 45, Bagian 9 Bar Date Claims Process",
     "gambar": [
       {
-        "src": "img/fn183-1-asli.png",
+        "src": "img./fn183-1-asli.png",
         "ket": "Disclosure Statement, hal. 45",
-        "src_id": "img/fn183-1-terjemahan.png"
+        "src_id": "img./fn183-1-terjemahan.png"
       }
     ],
     "kutipan": "In order to streamline the claims process for holders of non-customer claims and Customer Entitlement Claims, the Debtors established two separate bar dates. On May 19, 2023, the Bankruptcy Court entered an order setting June 30, 2023 as the bar date for non-customer proofs of claims and proofs of interest and September 29, 2023 as the governmental bar date [D.I. 1519]. On June 28, 2023, the Bankruptcy Court entered an order setting September 29, 2023 as the bar date for customer proofs of claims [D.I. 1793] (the “Customer Bar Date Order”).",
@@ -284,9 +284,9 @@ window.BUKTI = {
     "halaman": "Hal. 16, definisi 2.1.113 (Lampiran Rencana (Doc 26404-1), Page 22 of 96)",
     "gambar": [
       {
-        "src": "img/fn184-1-asli.png",
+        "src": "img./fn184-1-asli.png",
         "ket": "Second Amended Plan, hal. 16 — definisi 2.1.113",
-        "src_id": "img/fn184-1-terjemahan.png"
+        "src_id": "img./fn184-1-terjemahan.png"
       }
     ],
     "kutipan": "“General Unsecured Claim” means any Claim that is not a (a) Administrative Claim; (b) 503(b)(9) Claim; (c) Priority Tax Claim; (d) Other Priority Claim; (e) Secured Claim; (f) Separate Subsidiary Claim; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Digital Asset Loan Claim; (n) PropCo Operating Expense Claim; (o) Priority DM Claim; (p) PropCo General Unsecured Claim; (q) Intercompany Claim; (r) Senior Subordinated IRS Claim; (s) Senior Subordinated Governmental Claim; (t) Junior Subordinated IRS Claim; (u) Equitably Subordinated Claim; (v) FTT Claim or Interest; (w) Section 510(b) Preferred Equity Claim; (x) Section 510(b) Other Equity Claim; (y) De Minimis Claim; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; or (bb) Alameda U.S. Customer Claim.",
@@ -296,14 +296,14 @@ window.BUKTI = {
     "halaman": "Hal. 10 (definisi 2.1.67) dan hal. 23 (definisi 2.1.198) — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn185-1-asli.png",
+        "src": "img./fn185-1-asli.png",
         "ket": "Second Amended Plan, hal. 10 — definisi 2.1.67",
-        "src_id": "img/fn185-1-terjemahan.png"
+        "src_id": "img./fn185-1-terjemahan.png"
       },
       {
-        "src": "img/fn185-2-asli.png",
+        "src": "img./fn185-2-asli.png",
         "ket": "Hal. 23 — definisi 2.1.198",
-        "src_id": "img/fn185-2-terjemahan.png"
+        "src_id": "img./fn185-2-terjemahan.png"
       }
     ],
     "kutipan": "“Dotcom Convenience Claim” means (a) any Dotcom Customer Entitlement Claim that is Allowed in an amount equal to or less than $50,000 or (b) any Dotcom Customer Entitlement Claim that is Allowed in an amount greater than $50,000 but that is reduced to an amount equal to or less than $50,000 by an irrevocable written election of the Holder of such Customer Entitlement Claim made on a properly executed and delivered Ballot;\n\n“U.S. Convenience Claim” means (a) any U.S. Customer Entitlement Claim that is Allowed in an amount equal to or less than $50,000 or (b) any U.S. Customer Entitlement Claim that is Allowed in an amount greater than $50,000 but that is reduced to an amount equal to or less than $50,000 by an irrevocable written election of the Holder of such Customer Entitlement Claim made on a properly executed and delivered Ballot;",
@@ -313,9 +313,9 @@ window.BUKTI = {
     "halaman": "Hal. 10, definisi 2.1.68 — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn186-1-asli.png",
+        "src": "img./fn186-1-asli.png",
         "ket": "Second Amended Plan, hal. 10 — definisi 2.1.68",
-        "src_id": "img/fn186-1-terjemahan.png"
+        "src_id": "img./fn186-1-terjemahan.png"
       }
     ],
     "kutipan": "“Dotcom Customer Entitlement Claim” means any (a) Customer Entitlement Claim against the FTX.com Exchange and (b) Preference Replacement Claim relating to a Dotcom Customer Preference Action that arises from a judgment entered in favor of a Debtor against a Customer of the FTX.com Exchange or any of such Customer’s successors or assigns; provided that Dotcom Customer Entitlement Claims shall not include, FTT Customer Entitlement Claims, NFT Customer Entitlement Claims, Dotcom Convenience Claims or De Minimis Claims.",
@@ -325,9 +325,9 @@ window.BUKTI = {
     "halaman": "Hal. 24, definisi 2.1.199 — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn187-1-asli.png",
+        "src": "img./fn187-1-asli.png",
         "ket": "Second Amended Plan, hal. 24 — definisi 2.1.199",
-        "src_id": "img/fn187-1-terjemahan.png"
+        "src_id": "img./fn187-1-terjemahan.png"
       }
     ],
     "kutipan": "“U.S. Customer Entitlement Claim” means any (a) Customer Entitlement Claim against the FTX.US Exchange (including the Alameda U.S. Customer Claim) that is not a FTT Customer Entitlement Claim or a NFT Customer Entitlement Claim and (b) any Preference Replacement Claim relating to a U.S. Customer Preference Action that arises from a judgment entered in favor of a Debtor against a Customer of the FTX.US Exchange or any of such Customer’s successors or assigns; provided that U.S. Customer Entitlement Claims shall not include NFT Customer Entitlement Claims, U.S. Convenience Claims or De Minimis Claims.",
@@ -337,9 +337,9 @@ window.BUKTI = {
     "halaman": "Hal. 16, definisi 2.1.113",
     "gambar": [
       {
-        "src": "img/fn184-1-asli.png",
+        "src": "img./fn184-1-asli.png",
         "ket": "Second Amended Plan, hal. 16 — definisi 2.1.113",
-        "src_id": "img/fn184-1-terjemahan.png"
+        "src_id": "img./fn184-1-terjemahan.png"
       }
     ],
     "kutipan": "“General Unsecured Claim” means any Claim that is not a (a) Administrative Claim; (b) 503(b)(9) Claim; (c) Priority Tax Claim; (d) Other Priority Claim; (e) Secured Claim; (f) Separate Subsidiary Claim; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Digital Asset Loan Claim; (n) PropCo Operating Expense Claim; (o) Priority DM Claim; (p) PropCo General Unsecured Claim; (q) Intercompany Claim; (r) Senior Subordinated IRS Claim; (s) Senior Subordinated Governmental Claim; (t) Junior Subordinated IRS Claim; (u) Equitably Subordinated Claim; (v) FTT Claim or Interest; (w) Section 510(b) Preferred Equity Claim; (x) Section 510(b) Other Equity Claim; (y) De Minimis Claim; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; or (bb) Alameda U.S. Customer Claim.",
@@ -350,9 +350,9 @@ window.BUKTI = {
     "halaman": "Hal. 10, klausul 8.2.6",
     "gambar": [
       {
-        "src": "img/fn175-1-asli.png",
+        "src": "img./fn175-1-asli.png",
         "ket": "FTX Terms of Service (versi CoinDesk), hal. 10",
-        "src_id": "img/fn175-1-terjemahan.png"
+        "src_id": "img./fn175-1-terjemahan.png"
       }
     ],
     "kutipan": "All Digital Assets are held in your Account on the following basis: (A) Title to your Digital Assets shall at all times remain with you and shall not transfer to FTX Trading. As the owner of Digital Assets in your Account, you shall bear all risk of loss of such Digital Assets. FTX Trading shall have no liability for fluctuations in the fiat currency value of Digital Assets held in your Account. (B) None of the Digital Assets in your Account are the property of, or shall or may be loaned to, FTX Trading; FTX Trading does not represent or treat Digital Assets in User’s Accounts as belonging to FTX Trading. (C) You control the Digital Assets held in your Account. At any time, subject to outages, downtime, and other applicable policies (including the Terms), you may withdraw your Digital Assets by sending them to a different blockchain address controlled by you or a third party.",
@@ -363,14 +363,14 @@ window.BUKTI = {
     "halaman": "Hal. 32–33, Section 4.2.1–4.2.2 — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn190-1-asli.png",
+        "src": "img./fn190-1-asli.png",
         "ket": "Second Amended Plan, hal. 32 — 4.2.1 Dotcom Customer Waterfall",
-        "src_id": "img/fn190-1-terjemahan.png"
+        "src_id": "img./fn190-1-terjemahan.png"
       },
       {
-        "src": "img/fn190-2-asli.png",
+        "src": "img./fn190-2-asli.png",
         "ket": "Hal. 33 — 4.2.2 U.S. Customer Waterfall",
-        "src_id": "img/fn190-2-terjemahan.png"
+        "src_id": "img./fn190-2-terjemahan.png"
       }
     ],
     "kutipan": "Proceeds in the Dotcom Customer Priority Pool shall be applied in the following manner: (a) first, to pay Case Expenses allocated to the Dotcom Customer Priority Assets pursuant to Section 3.6; (b) second, to pay Allowed Priority Tax Claims and Allowed Other Priority Claims allocated to the Dotcom Customer Priority Assets; (c) third, to pay and perform obligations owed to FTX DM under the FTX DM Global Settlement Agreement; (d) fourth, to pay Allowed Dotcom Convenience Claims and postpetition interest accrued at the Consensus Rate on Allowed Dotcom Convenience Claims from the Petition Date through the Initial Distribution Date; (e) fifth, to pay Allowed Dotcom Customer Entitlement Claims; and (f) sixth, to transfer remaining proceeds to the General Pool.\n\nthird, to pay Allowed U.S. Convenience Claims and postpetition interest accrued at the Consensus Rate on Allowed U.S. Convenience Claims from the Petition Date through the Initial Distribution Date; (d) fourth, to pay Allowed U.S. Customer Entitlement Claims; and (e) fifth, to transfer remaining proceeds to the General Pool.",
@@ -380,14 +380,14 @@ window.BUKTI = {
     "halaman": "Hal. 38–39, Section 4.3.6 (Kelas 5A) dan 4.3.9 (Kelas 6A) — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn191-1-asli.png",
+        "src": "img./fn191-1-asli.png",
         "ket": "Second Amended Plan, hal. 38 — Kelas 5A",
-        "src_id": "img/fn191-1-terjemahan.png"
+        "src_id": "img./fn191-1-terjemahan.png"
       },
       {
-        "src": "img/fn191-2-asli.png",
+        "src": "img./fn191-2-asli.png",
         "ket": "Hal. 39 — Kelas 6A",
-        "src_id": "img/fn191-2-terjemahan.png"
+        "src_id": "img./fn191-2-terjemahan.png"
       }
     ],
     "kutipan": "each Holder of an Allowed Dotcom Customer Entitlement Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed Dotcom Customer Entitlement Claim, plus (ii) interest at the Consensus Rate on such Allowed Dotcom Customer Entitlement Claim from the Petition Date through the applicable Distribution Date\n\neach Holder of an Allowed General Unsecured Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed General Unsecured Claim, plus (ii) interest at the lower of the Consensus Rate, the applicable Contract Rate or such other rate determined by the Court (or as otherwise agreed by the relevant parties) on such Allowed General Unsecured Claim from the Petition Date through the applicable Distribution Date",
@@ -397,19 +397,19 @@ window.BUKTI = {
     "halaman": "Hal. 7, 13, dan 21 laporan (berkas PDF hal. 12, 18, 26)",
     "gambar": [
       {
-        "src": "img/fn192-1-asli.png",
+        "src": "img./fn192-1-asli.png",
         "ket": "Second Interim Report, hal. 7",
-        "src_id": "img/fn192-1-terjemahan.png"
+        "src_id": "img./fn192-1-terjemahan.png"
       },
       {
-        "src": "img/fn192-2-asli.png",
+        "src": "img./fn192-2-asli.png",
         "ket": "Hal. 13",
-        "src_id": "img/fn192-2-terjemahan.png"
+        "src_id": "img./fn192-2-terjemahan.png"
       },
       {
-        "src": "img/fn192-3-asli.png",
+        "src": "img./fn192-3-asli.png",
         "ket": "Hal. 21",
-        "src_id": "img/fn192-3-terjemahan.png"
+        "src_id": "img./fn192-3-terjemahan.png"
       }
     ],
     "kutipan": "As set forth below, all of the statements referenced above from the FTX Group’s Key Principles, and Bankman-Fried’s Senate testimony and social media posts, were false. III. The Commingling of Customer Deposits\n\nthe FTX Group appears to have used the FTX DM accounts, like other accounts, on a commingled basis for many purposes, including the cycling of money to and from customers to meet withdrawal requests when necessary and various investments, donations and expenditures.\n\nAttorney-1’s statement that Alameda held cash “for the benefit” of FTX customers was false to the extent it suggested that Alameda secured, segregated, or otherwise allowed only customers to direct the spending of cash that customers deposited for credit to their FTX exchange accounts.",
@@ -419,14 +419,14 @@ window.BUKTI = {
     "halaman": "Hal. 12 dan 19",
     "gambar": [
       {
-        "src": "img/fn182-1-asli.png",
+        "src": "img./fn182-1-asli.png",
         "ket": "Findings of Fact, hal. 12 ¶20",
-        "src_id": "img/fn182-1-terjemahan.png"
+        "src_id": "img./fn182-1-terjemahan.png"
       },
       {
-        "src": "img/fn182-2-asli.png",
+        "src": "img./fn182-2-asli.png",
         "ket": "Findings of Fact, hal. 19 ¶40",
-        "src_id": "img/fn182-2-terjemahan.png"
+        "src_id": "img./fn182-2-terjemahan.png"
       }
     ],
     "kutipan": "The factual record establishes that all Digital Assets and Cash held by the FTX Exchanges on or after the Petition Date (“Exchange Assets”) are property of the Debtors’ Estates within the meaning of section 541 of the Bankruptcy Code and can be distributed pursuant to the Plan.\n\nDistributions to customers and creditors shall be made in Cash (other than in Available NFTs) as set forth in Articles 4 and 7 of the Plan; (j) all assets scheduled by the Debtors shall constitute property of the Debtors’ Estates;",
@@ -437,9 +437,9 @@ window.BUKTI = {
     "halaman": "Hal. 45",
     "gambar": [
       {
-        "src": "img/fn183-1-asli.png",
+        "src": "img./fn183-1-asli.png",
         "ket": "Disclosure Statement, hal. 45",
-        "src_id": "img/fn183-1-terjemahan.png"
+        "src_id": "img./fn183-1-terjemahan.png"
       }
     ],
     "kutipan": "In order to streamline the claims process for holders of non-customer claims and Customer Entitlement Claims, the Debtors established two separate bar dates. On May 19, 2023, the Bankruptcy Court entered an order setting June 30, 2023 as the bar date for non-customer proofs of claims and proofs of interest and September 29, 2023 as the governmental bar date [D.I. 1519]. On June 28, 2023, the Bankruptcy Court entered an order setting September 29, 2023 as the bar date for customer proofs of claims [D.I. 1793] (the “Customer Bar Date Order”).",
@@ -450,19 +450,19 @@ window.BUKTI = {
     "halaman": "Hal. 14–17, tabel klasifikasi (Kelas 5A, 5B, 7A, 7B)",
     "gambar": [
       {
-        "src": "img/fn195-1-asli.png",
+        "src": "img./fn195-1-asli.png",
         "ket": "Disclosure Statement, hal. 14 — Kelas 5A",
-        "src_id": "img/fn195-1-terjemahan.png"
+        "src_id": "img./fn195-1-terjemahan.png"
       },
       {
-        "src": "img/fn195-2-asli.png",
+        "src": "img./fn195-2-asli.png",
         "ket": "Hal. 15 — Kelas 5B",
-        "src_id": "img/fn195-2-terjemahan.png"
+        "src_id": "img./fn195-2-terjemahan.png"
       },
       {
-        "src": "img/fn195-3-asli.png",
+        "src": "img./fn195-3-asli.png",
         "ket": "Hal. 17 — Kelas 7A dan 7B",
-        "src_id": "img/fn195-3-terjemahan.png"
+        "src_id": "img./fn195-3-terjemahan.png"
       }
     ],
     "kutipan": "Except to the extent that a Holder of an Allowed Dotcom Customer Entitlement Claim agrees to less favorable treatment, and in full and final satisfaction, settlement, release and discharge of and in exchange for its Allowed Dotcom Customer Entitlement Claims, each Holder of an Allowed Dotcom Customer Entitlement Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed Dotcom Customer Entitlement Claim, Class 5A plus (ii) interest at the Consensus Rate on such Allowed Dotcom Dotcom Customer Entitlement Claim from the Petition Customer Date through the applicable Distribution Date to the $8,026 129% - 143% Entitlement extent of available funds in accordance with section 7.1 Claims of the Plan, plus (iii) any proceeds from the Supplemental Remission Fund to which the Debtors determine such Holder is entitled pursuant to section 5.21 of the Plan; provided that no Holder of an Allowed Dotcom Customer Entitlement Claim shall be entitled to receive any payment except to the extent of funds available to make such payment in accordance with the waterfall priorities set forth in sections 4.2.1 and 4.2.3 of the Plan.\n\nExcept to the extent that a Holder of an Allowed U.S. Customer Entitlement Claim agrees to less favorable treatment, and in full and final satisfaction, settlement, release and discharge of and in exchange for its Allowed U.S. Customer Entitlement Claims, each Holder of an Allowed U.S. Customer Entitlement Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed U.S. Customer Entitlement Claim, plus (ii) Class 5B interest at the Consensus Rate on such Allowed U.S. U.S. Customer Customer Entitlement Claim from the Petition Date $168 129% - 143% Entitlement through the applicable Distribution Date to the extent of Claims available funds in accordance with section 7.1 of the Plan, plus (iii) any proceeds from the Supplemental Remission Fund to which the Debtors determine such Holder is entitled pursuant to section 5.21 of the Plan; provided that no Holder of an Allowed U.S. Customer Entitlement Claim shall be entitled to receive any payment except to the extent of funds available to make such payment in accordance with the waterfall priorities set forth in sections 4.2.2 and 4.2.3 of the Plan.\n\nIn full and final satisfaction, settlement, release, and discharge of and in exchange for its Allowed Dotcom Convenience Claim, each Holder of an Allowed Dotcom Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed Dotcom Convenience Claim plus postpetition interest at the Class 7A Consensus Rate from the Petition Date through the Dotcom Initial Distribution Date in accordance with the waterfall $864 119% Convenience priority set forth in section 4.2.1 of the Plan, payable in Claims Cash on or as reasonably practical after the latest of (i) a date determined by the Plan Administrator that shall be no later than 60 days after the Effective Date; (ii) the date of which such Dotcom Convenience Claim becomes Allowed; and (iii) such other date as may be ordered by the Bankruptcy Court. In full and final satisfaction, settlement, release, and discharge of and in exchange for its Allowed U.S. Convenience Claim, each Holder of an Allowed U.S. Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed U.S. Convenience Claim plus postpetition interest at the Class 7B Consensus Rate from the Petition Date through the U.S. Initial Distribution Date in accordance with the waterfall $144 119% Convenience priority set forth in section 4.2.2 of the Plan, payable in Claims Cash on or as reasonably practical after the latest of (i) a date determined by the Plan Administrator that shall be no later than 60 days after the Effective Date; (ii) the date of which such U.S. Convenience Claim becomes Allowed; and (iii) such other date as may be ordered by the Bankruptcy Court.",
@@ -472,14 +472,14 @@ window.BUKTI = {
     "halaman": "Hal. 4–5, bagian The Main Challenges (tantangan ketiga)",
     "gambar": [
       {
-        "src": "img/fn196-1-asli.png",
+        "src": "img./fn196-1-asli.png",
         "ket": "Disclosure Statement, hal. 4",
-        "src_id": "img/fn196-1-terjemahan.png"
+        "src_id": "img./fn196-1-terjemahan.png"
       },
       {
-        "src": "img/fn196-2-asli.png",
+        "src": "img./fn196-2-asli.png",
         "ket": "Lanjutan, hal. 5",
-        "src_id": "img/fn196-2-terjemahan.png"
+        "src_id": "img./fn196-2-terjemahan.png"
       }
     ],
     "kutipan": "Third, from the Debtors’ perspective, the legal documentation for the FTX.com exchange was a self-contradictory mess. The FTX.com exchange user agreement included conclusory language stating that customers “owned” “their” digital assets, yet it did not include the other provisions necessary to create a conventional custody or trust relationship under applicable law. The user agreements also did not provide for the segregation of assets or the return of assets in specie to customers. Nor did such “ownership” language cover the billions in fiat currency owed to customers. More fundamentally, behind the scenes at the FTX.com exchange, there had been no attempt to match customer positions with underlying assets attributable to customers. As described below and as previously disclosed, the FTX Group had\n\nonly a small fraction of the digital assets in FTX.com exchange wallets that would have been necessary to cover customer positions on the Petition Date. Significantly, the shortfall in digital assets was not the result of a few large transfers of those assets out of FTX.com exchange wallets as the FTX Group collapsed; instead, there appeared never to have been reliable segregation nor reconciliation of customer entitlements to actual assets at the FTX.com exchange.",
@@ -489,14 +489,14 @@ window.BUKTI = {
     "halaman": "Hal. 7–8, bagian Highlights of the Plan",
     "gambar": [
       {
-        "src": "img/fn197-1-asli.png",
+        "src": "img./fn197-1-asli.png",
         "ket": "Disclosure Statement, hal. 7",
-        "src_id": "img/fn197-1-terjemahan.png"
+        "src_id": "img./fn197-1-terjemahan.png"
       },
       {
-        "src": "img/fn197-2-asli.png",
+        "src": "img./fn197-2-asli.png",
         "ket": "Lanjutan, hal. 8",
-        "src_id": "img/fn197-2-terjemahan.png"
+        "src_id": "img./fn197-2-terjemahan.png"
       }
     ],
     "kutipan": "Consistent with prior drafts of the Plan and the previously-announced settlement of customer property litigation with the Ad Hoc Committee and the Class Action Plaintiffs, the Plan provides special treatment for customers versus other creditors. Customers of each of the FTX.com exchange and FTX.US exchange have a partial priority claim against the General Pool (as defined below) for the shared benefit of all of the customers of the applicable exchange. These priority claims are referred to as the “Dotcom Intercompany Shortfall Claim” and the “US Intercompany Shortfall Claim,” respectively. As a result of these shared priority claims,\n\ncustomers of the FTX.com exchange and FTX.US exchange should receive distributions more quickly than non-customer creditors. The Debtors continue to believe that this priority for customers is a reasonable settlement that is in the best interests of the Debtors’ estates and their stakeholders, as described in more detail in Section 4.B.5The Customer Priority Settlement.",
@@ -506,9 +506,9 @@ window.BUKTI = {
     "halaman": "Hal. 33, Section 4.2.3 huruf (e)–(f) — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn198-1-asli.png",
+        "src": "img./fn198-1-asli.png",
         "ket": "Second Amended Plan, hal. 33 — 4.2.3 General Pool Waterfall",
-        "src_id": "img/fn198-1-terjemahan.png"
+        "src_id": "img./fn198-1-terjemahan.png"
       }
     ],
     "kutipan": "fifth, with respect to 66 percent of the amount next available for Distribution from the General Pool, to pay on a Pro Rata basis the Allowed Dotcom Intercompany Shortfall Claim and the Allowed U.S. Intercompany Shortfall Claim; (f) sixth, to pay on a Pro Rata basis Allowed General Unsecured Claims and Allowed Digital Asset Loan Claims, any unpaid balance of the Allowed Dotcom Intercompany Shortfall Claim and any unpaid balance of the Allowed U.S. Intercompany Shortfall Claim;",
@@ -518,14 +518,14 @@ window.BUKTI = {
     "halaman": "Hal. 32–33, Section 4.2.1–4.2.2 — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn199-1-asli.png",
+        "src": "img./fn199-1-asli.png",
         "ket": "Second Amended Plan, hal. 32 — 4.2.1 (e)–(f)",
-        "src_id": "img/fn199-1-terjemahan.png"
+        "src_id": "img./fn199-1-terjemahan.png"
       },
       {
-        "src": "img/fn199-2-asli.png",
+        "src": "img./fn199-2-asli.png",
         "ket": "Hal. 33 — 4.2.2 (d)–(e)",
-        "src_id": "img/fn199-2-terjemahan.png"
+        "src_id": "img./fn199-2-terjemahan.png"
       }
     ],
     "kutipan": "fifth, to pay Allowed Dotcom Customer Entitlement Claims; and (f) sixth, to transfer remaining proceeds to the General Pool.\n\nfourth, to pay Allowed U.S. Customer Entitlement Claims; and (e) fifth, to transfer remaining proceeds to the General Pool.",
@@ -535,19 +535,19 @@ window.BUKTI = {
     "halaman": "Hal. 39–41, Kelas 6A, 7A, dan 7B — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn200-1-asli.png",
+        "src": "img./fn200-1-asli.png",
         "ket": "Second Amended Plan, hal. 39 — Kelas 6A",
-        "src_id": "img/fn200-1-terjemahan.png"
+        "src_id": "img./fn200-1-terjemahan.png"
       },
       {
-        "src": "img/fn200-2-asli.png",
+        "src": "img./fn200-2-asli.png",
         "ket": "Hal. 40 — Kelas 7A",
-        "src_id": "img/fn200-2-terjemahan.png"
+        "src_id": "img./fn200-2-terjemahan.png"
       },
       {
-        "src": "img/fn200-3-asli.png",
+        "src": "img./fn200-3-asli.png",
         "ket": "Hal. 41 — Kelas 7B",
-        "src_id": "img/fn200-3-terjemahan.png"
+        "src_id": "img./fn200-3-terjemahan.png"
       }
     ],
     "kutipan": "each Holder of an Allowed General Unsecured Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed General Unsecured Claim, plus (ii) interest at the lower of the Consensus Rate, the applicable Contract Rate or such other rate determined by the Court (or as otherwise agreed by the relevant parties) on such Allowed General Unsecured Claim from the Petition Date through the applicable Distribution Date\n\neach Holder of an Allowed Dotcom Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed Dotcom Convenience Claim plus postpetition interest at the Consensus Rate from the Petition Date through the Initial Distribution Date\n\neach Holder of an Allowed U.S. Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed U.S. Convenience Claim plus postpetition interest at the Consensus Rate from the Petition Date through the Initial Distribution Date",
@@ -557,14 +557,14 @@ window.BUKTI = {
     "halaman": "Hal. 45, Bagian 9 Bar Date Claims Process",
     "gambar": [
       {
-        "src": "img/fn201-1-asli.png",
+        "src": "img./fn201-1-asli.png",
         "ket": "Disclosure Statement, hal. 45",
-        "src_id": "img/fn201-1-terjemahan.png"
+        "src_id": "img./fn201-1-terjemahan.png"
       },
       {
-        "src": "img/fn201-2-asli.png",
+        "src": "img./fn201-2-asli.png",
         "ket": "Hal. 45 (paragraf berikutnya)",
-        "src_id": "img/fn201-2-terjemahan.png"
+        "src_id": "img./fn201-2-terjemahan.png"
       }
     ],
     "kutipan": "The FTX Group had over 11 million customer accounts, approximately 2 million of which had net positive balances as of the Petition Date.\n\nTo facilitate the submission process of potentially millions of Customer Entitlement Claims, the Debtors developed an online claims portal for the submission and processing of Customer Entitlement Claims.",
@@ -574,9 +574,9 @@ window.BUKTI = {
     "halaman": "Hal. 5, bagian The Main Challenges (tantangan ketujuh)",
     "gambar": [
       {
-        "src": "img/fn202-1-asli.png",
+        "src": "img./fn202-1-asli.png",
         "ket": "Disclosure Statement, hal. 5",
-        "src_id": "img/fn202-1-terjemahan.png"
+        "src_id": "img./fn202-1-terjemahan.png"
       }
     ],
     "kutipan": "Seventh, the collapse of the FTX Group caused harm to individual investors around the world. Customers were rightly shocked, hurt and outraged. Encouraged by Mr. Bankman-Fried and his collaborators, who touted the FTX Group as a safe alternative to traditional financial institutions, many individuals had invested a large portion of their personal wealth in these companies. Any resolution of these chapter 11 cases would need to be sensitive to the devastation caused and address as creatively as possible how to make injured parties whole in a manner consistent with the limitations imposed by the Bankruptcy Code and applicable law.",
@@ -586,9 +586,9 @@ window.BUKTI = {
     "halaman": "Hal. 47, Section 4.4 — Lampiran Rencana (Doc 26404-1)",
     "gambar": [
       {
-        "src": "img/fn203-1-asli.png",
+        "src": "img./fn203-1-asli.png",
         "ket": "Second Amended Plan, hal. 47 — 4.4 Valuation of Claims",
-        "src_id": "img/fn203-1-terjemahan.png"
+        "src_id": "img./fn203-1-terjemahan.png"
       }
     ],
     "kutipan": "Valuation of Claims Unless otherwise expressly provided in the Digital Assets Estimation Order, the value of a Claim in respect of a Digital Asset shall be calculated by converting the value of such Digital Asset into Cash as of the Petition Date utilizing the conversion rates set forth in the Digital Assets Conversion Table.",
@@ -598,19 +598,19 @@ window.BUKTI = {
     "halaman": "Hal. 14–17, kolom Estimated Percent Recovery",
     "gambar": [
       {
-        "src": "img/fn195-1-asli.png",
+        "src": "img./fn195-1-asli.png",
         "ket": "Disclosure Statement, hal. 14 — Kelas 5A",
-        "src_id": "img/fn195-1-terjemahan.png"
+        "src_id": "img./fn195-1-terjemahan.png"
       },
       {
-        "src": "img/fn195-2-asli.png",
+        "src": "img./fn195-2-asli.png",
         "ket": "Hal. 15 — Kelas 5B",
-        "src_id": "img/fn195-2-terjemahan.png"
+        "src_id": "img./fn195-2-terjemahan.png"
       },
       {
-        "src": "img/fn195-3-asli.png",
+        "src": "img./fn195-3-asli.png",
         "ket": "Hal. 17 — Kelas 7A dan 7B",
-        "src_id": "img/fn195-3-terjemahan.png"
+        "src_id": "img./fn195-3-terjemahan.png"
       }
     ],
     "kutipan": "Except to the extent that a Holder of an Allowed Dotcom Customer Entitlement Claim agrees to less favorable treatment, and in full and final satisfaction, settlement, release and discharge of and in exchange for its Allowed Dotcom Customer Entitlement Claims, each Holder of an Allowed Dotcom Customer Entitlement Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed Dotcom Customer Entitlement Claim, Class 5A plus (ii) interest at the Consensus Rate on such Allowed Dotcom Dotcom Customer Entitlement Claim from the Petition Customer Date through the applicable Distribution Date to the $8,026 129% - 143% Entitlement extent of available funds in accordance with section 7.1 Claims of the Plan, plus (iii) any proceeds from the Supplemental Remission Fund to which the Debtors determine such Holder is entitled pursuant to section 5.21 of the Plan; provided that no Holder of an Allowed Dotcom Customer Entitlement Claim shall be entitled to receive any payment except to the extent of funds available to make such payment in accordance with the waterfall priorities set forth in sections 4.2.1 and 4.2.3 of the Plan.\n\nExcept to the extent that a Holder of an Allowed U.S. Customer Entitlement Claim agrees to less favorable treatment, and in full and final satisfaction, settlement, release and discharge of and in exchange for its Allowed U.S. Customer Entitlement Claims, each Holder of an Allowed U.S. Customer Entitlement Claim shall receive payment in Cash in an amount equal to (i) 100% of such Allowed U.S. Customer Entitlement Claim, plus (ii) Class 5B interest at the Consensus Rate on such Allowed U.S. U.S. Customer Customer Entitlement Claim from the Petition Date $168 129% - 143% Entitlement through the applicable Distribution Date to the extent of Claims available funds in accordance with section 7.1 of the Plan, plus (iii) any proceeds from the Supplemental Remission Fund to which the Debtors determine such Holder is entitled pursuant to section 5.21 of the Plan; provided that no Holder of an Allowed U.S. Customer Entitlement Claim shall be entitled to receive any payment except to the extent of funds available to make such payment in accordance with the waterfall priorities set forth in sections 4.2.2 and 4.2.3 of the Plan.\n\nIn full and final satisfaction, settlement, release, and discharge of and in exchange for its Allowed Dotcom Convenience Claim, each Holder of an Allowed Dotcom Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed Dotcom Convenience Claim plus postpetition interest at the Class 7A Consensus Rate from the Petition Date through the Dotcom Initial Distribution Date in accordance with the waterfall $864 119% Convenience priority set forth in section 4.2.1 of the Plan, payable in Claims Cash on or as reasonably practical after the latest of (i) a date determined by the Plan Administrator that shall be no later than 60 days after the Effective Date; (ii) the date of which such Dotcom Convenience Claim becomes Allowed; and (iii) such other date as may be ordered by the Bankruptcy Court. In full and final satisfaction, settlement, release, and discharge of and in exchange for its Allowed U.S. Convenience Claim, each Holder of an Allowed U.S. Convenience Claim shall receive payment in Cash in an amount equal to 100% of such Allowed U.S. Convenience Claim plus postpetition interest at the Class 7B Consensus Rate from the Petition Date through the U.S. Initial Distribution Date in accordance with the waterfall $144 119% Convenience priority set forth in section 4.2.2 of the Plan, payable in Claims Cash on or as reasonably practical after the latest of (i) a date determined by the Plan Administrator that shall be no later than 60 days after the Effective Date; (ii) the date of which such U.S. Convenience Claim becomes Allowed; and (iii) such other date as may be ordered by the Bankruptcy Court.",
@@ -621,9 +621,9 @@ window.BUKTI = {
     "halaman": "Hal. 92, Bagian 6 Postpetition Interest",
     "gambar": [
       {
-        "src": "img/fn205-1-asli.png",
+        "src": "img./fn205-1-asli.png",
         "ket": "Disclosure Statement, hal. 92",
-        "src_id": "img/fn205-1-terjemahan.png"
+        "src_id": "img./fn205-1-terjemahan.png"
       }
     ],
     "kutipan": "The Debtors are not solvent and the Bankruptcy Code ordinarily would prevent payment of postpetition interest to customers and other unsecured creditors. However, the Debtors recognize that these Chapter 11 Cases have deprived creditors of their money since November 2022, and will continue to do so until distributions are paid. In effect, all customers and creditors of the Debtors have been forced to lend to the Debtors during these Chapter 11 Cases and, in the view of the Joint Board, deserve a fair rate of return.",
@@ -633,9 +633,9 @@ window.BUKTI = {
     "halaman": "Hal. 92, Bagian 6 Postpetition Interest",
     "gambar": [
       {
-        "src": "img/fn206-1-asli.png",
+        "src": "img./fn206-1-asli.png",
         "ket": "Disclosure Statement, hal. 92",
-        "src_id": "img/fn206-1-terjemahan.png"
+        "src_id": "img./fn206-1-terjemahan.png"
       }
     ],
     "kutipan": "Accordingly, the Debtors have approached the IRS and the CFTC and requested that these governmental authorities (and potentially others) enter into a settlement in which their claims are voluntarily subordinated to the claims of customers and certain creditors as well as to interest on these claims. The payment of interest on claims also has been an important element in obtaining the continuing support of the Plan by the Ad Hoc Committee, despite changes to the Plan and the case timetable since the PSA was initially agreed. Based on these discussions, the Plan provides the payment of interest at the Consensus Rate from the Petition Date to the Distribution Date on which claims are paid. As to the rate of interest, the Debtors are proposing a Consensus Rate of 9.0% after consultation with many of the stakeholders who support the compromises set forth in the Plan, including the Bahamas JOLs, the IRS, the CFTC, the Department of Justice, the Ad Hoc Committee, the Official Committee and the Class Action Claimants. Factors considered by the Debtors when setting the Consensus Rate include: (i) the misappropriation of funds by Mr. Bankman-Fried and the applicable rate for prejudgment interest in the State of Delaware (which was 9.0% as of the Petition Date); (ii) the interest rate environment over the applicable period; (iii) the risks involved in lending to the Debtors during the Chapter 11 Cases; and (iv) the support for the Consensus Rate among all the supporting parties described above.",
@@ -645,9 +645,9 @@ window.BUKTI = {
     "halaman": "Hal. 2 (tabel kumulatif per 30 Mei 2025)",
     "gambar": [
       {
-        "src": "img/fn207-1-asli.png",
+        "src": "img./fn207-1-asli.png",
         "ket": "Distribution to Holders …, 30 Mei 2025, hal. 2",
-        "src_id": "img/fn207-1-terjemahan.png"
+        "src_id": "img./fn207-1-terjemahan.png"
       }
     ],
     "kutipan": "Class 5A: Dotcom Customer Entitlement Claims 4 ,502 6 ,211 72% Class 5A: Dotcom Customer Entitlement Claims (Bahamas Opt-In) 50 69 72% Class 5B: U.S. Customer Entitlement Claims 52 9 5 54% Class 6A: General Unsecured Claims 173 2 83 61% Class 6B: Digital Asset Loan Claims 350 5 71 61% Class 7A: Dotcom Convenience Claims 516 4 28 120% Class 7A: Dotcom Convenience Claims (Bahamas Opt-In) 119 9 9 120% Class 7B: U.S. Convenience Claims 78 64 120%",
@@ -657,9 +657,9 @@ window.BUKTI = {
     "halaman": "Hal. 2 (tabel kumulatif per 30 September 2025)",
     "gambar": [
       {
-        "src": "img/fn208-1-asli.png",
+        "src": "img./fn208-1-asli.png",
         "ket": "Distribution to Holders …, 30 September 2025, hal. 2",
-        "src_id": "img/fn208-1-terjemahan.png"
+        "src_id": "img./fn208-1-terjemahan.png"
       }
     ],
     "kutipan": "Class 5A: Dotcom Customer Entitlement Claims 5 ,537 7 ,085 78% Class 5A: Dotcom Customer Entitlement Claims (Bahamas Opt-In) 2 39 3 05 78% Class 5B: U.S. Customer Entitlement Claims 1 14 1 21 95% Class 6A: General Unsecured Claims 2 48 2 90 85% Class 6B: Digital Asset Loan Claims 4 92 5 76 85% Class 7A: Dotcom Convenience Claims 5 59 4 64 120% Class 7A: Dotcom Convenience Claims (Bahamas Opt-In) 1 84 1 52 120% Class 7B: U.S. Convenience Claims 8 7 7 2 120%",
@@ -669,9 +669,9 @@ window.BUKTI = {
     "halaman": "Hal. 2 (tabel kumulatif per 31 Maret 2026)",
     "gambar": [
       {
-        "src": "img/fn209-1-asli.png",
+        "src": "img./fn209-1-asli.png",
         "ket": "Distribution to Holders …, 31 Maret 2026, hal. 2",
-        "src_id": "img/fn209-1-terjemahan.png"
+        "src_id": "img./fn209-1-terjemahan.png"
       }
     ],
     "kutipan": "Class 5A: Dotcom Customer Entitlement Claims 7 ,043 7 ,314 96% Class 5A: Dotcom Customer Entitlement Claims (Bahamas Opt-In) 4 02 4 18 96% Class 5B: U.S. Customer Entitlement Claims 1 34 1 34 100% Class 6A: General Unsecured Claims 6 22 6 22 100% Class 6B: Digital Asset Loan Claims 5 77 5 77 100% Class 7A: Dotcom Convenience Claims 5 71 4 74 120% Class 7A: Dotcom Convenience Claims (Bahamas Opt-In) 2 04 1 70 120% Class 7B: U.S. Convenience Claims 9 2 7 6 120%",
@@ -681,14 +681,14 @@ window.BUKTI = {
     "halaman": "Hal. 92–93, Bagian 7 Supplemental Remission Fund",
     "gambar": [
       {
-        "src": "img/fn210-1-asli.png",
+        "src": "img./fn210-1-asli.png",
         "ket": "Disclosure Statement, hal. 92",
-        "src_id": "img/fn210-1-terjemahan.png"
+        "src_id": "img./fn210-1-terjemahan.png"
       },
       {
-        "src": "img/fn210-2-asli.png",
+        "src": "img./fn210-2-asli.png",
         "ket": "Hal. 93",
-        "src_id": "img/fn210-2-terjemahan.png"
+        "src_id": "img./fn210-2-terjemahan.png"
       }
     ],
     "kutipan": "In addition to requesting that the CFTC subordinate its claims to customers and certain creditors, the Debtors have also requested that the CFTC agree to forego receiving a distribution on account of its claim and, instead, use such distribution to fund the Supplemental Remission Fund for supplemental payments to FTX.com customers, FTX.US customers, cryptocurrency lenders to Alameda, FTX DM for the benefit of Holders of Eligible DM Customer Entitlement Claims and other creditors agreed with the CFTC. The Debtors also intend to request other governmental creditors to agree to the same treatment.\n\nUltimately, after discussions with the Official Committee and the Ad Hoc Committee, the Debtors determined that funds in the Supplemental Remission Fund—like all other Plan Distributions—should be allocated among eligible customers and creditors on a pro rata basis based on the value of claims as of the Petition Date, unless an alternative allocation is agreed among the Debtors and the applicable funding governmental authorities.",
@@ -698,9 +698,9 @@ window.BUKTI = {
     "halaman": "Hal. 10, klausul 8.2.6",
     "gambar": [
       {
-        "src": "img/fn175-1-asli.png",
+        "src": "img./fn175-1-asli.png",
         "ket": "FTX Terms of Service (versi CoinDesk), hal. 10",
-        "src_id": "img/fn175-1-terjemahan.png"
+        "src_id": "img./fn175-1-terjemahan.png"
       }
     ],
     "kutipan": "All Digital Assets are held in your Account on the following basis: (A) Title to your Digital Assets shall at all times remain with you and shall not transfer to FTX Trading. As the owner of Digital Assets in your Account, you shall bear all risk of loss of such Digital Assets. FTX Trading shall have no liability for fluctuations in the fiat currency value of Digital Assets held in your Account. (B) None of the Digital Assets in your Account are the property of, or shall or may be loaned to, FTX Trading; FTX Trading does not represent or treat Digital Assets in User’s Accounts as belonging to FTX Trading. (C) You control the Digital Assets held in your Account. At any time, subject to outages, downtime, and other applicable policies (including the Terms), you may withdraw your Digital Assets by sending them to a different blockchain address controlled by you or a third party.",
@@ -711,9 +711,9 @@ window.BUKTI = {
     "halaman": "Hal. 2 laporan (berkas PDF hal. 7)",
     "gambar": [
       {
-        "src": "img/fn212-1-asli.png",
+        "src": "img./fn212-1-asli.png",
         "ket": "Second Interim Report, hal. 2",
-        "src_id": "img/fn212-1-terjemahan.png"
+        "src_id": "img./fn212-1-terjemahan.png"
       }
     ],
     "kutipan": "In fact, as set forth in this report, from the inception of the FTX.com exchange, the FTX Group commingled customer deposits and corporate funds, and misused them with abandon. Bankman-Fried, along with FTX.com’s co-founder, Gary Wang, and Director of Engineering, Nishad Singh (the “FTX Senior Executives”), and others at their direction, used commingled customer and corporate funds for speculative trading, venture investments, and the purchase of luxury properties, as well as for political and other donations designed to enhance their own power and influence.",
@@ -723,14 +723,14 @@ window.BUKTI = {
     "halaman": "Hal. 12 dan 19",
     "gambar": [
       {
-        "src": "img/fn182-1-asli.png",
+        "src": "img./fn182-1-asli.png",
         "ket": "Findings of Fact, hal. 12 ¶20",
-        "src_id": "img/fn182-1-terjemahan.png"
+        "src_id": "img./fn182-1-terjemahan.png"
       },
       {
-        "src": "img/fn182-2-asli.png",
+        "src": "img./fn182-2-asli.png",
         "ket": "Findings of Fact, hal. 19 ¶40",
-        "src_id": "img/fn182-2-terjemahan.png"
+        "src_id": "img./fn182-2-terjemahan.png"
       }
     ],
     "kutipan": "The factual record establishes that all Digital Assets and Cash held by the FTX Exchanges on or after the Petition Date (“Exchange Assets”) are property of the Debtors’ Estates within the meaning of section 541 of the Bankruptcy Code and can be distributed pursuant to the Plan.\n\nDistributions to customers and creditors shall be made in Cash (other than in Available NFTs) as set forth in Articles 4 and 7 of the Plan; (j) all assets scheduled by the Debtors shall constitute property of the Debtors’ Estates;",
@@ -741,9 +741,9 @@ window.BUKTI = {
     "halaman": "Hal. 45",
     "gambar": [
       {
-        "src": "img/fn183-1-asli.png",
+        "src": "img./fn183-1-asli.png",
         "ket": "Disclosure Statement, hal. 45",
-        "src_id": "img/fn183-1-terjemahan.png"
+        "src_id": "img./fn183-1-terjemahan.png"
       }
     ],
     "kutipan": "In order to streamline the claims process for holders of non-customer claims and Customer Entitlement Claims, the Debtors established two separate bar dates. On May 19, 2023, the Bankruptcy Court entered an order setting June 30, 2023 as the bar date for non-customer proofs of claims and proofs of interest and September 29, 2023 as the governmental bar date [D.I. 1519]. On June 28, 2023, the Bankruptcy Court entered an order setting September 29, 2023 as the bar date for customer proofs of claims [D.I. 1793] (the “Customer Bar Date Order”).",
@@ -754,9 +754,9 @@ window.BUKTI = {
     "halaman": "Hal. 16, definisi 2.1.113",
     "gambar": [
       {
-        "src": "img/fn184-1-asli.png",
+        "src": "img./fn184-1-asli.png",
         "ket": "Second Amended Plan, hal. 16 — definisi 2.1.113",
-        "src_id": "img/fn184-1-terjemahan.png"
+        "src_id": "img./fn184-1-terjemahan.png"
       }
     ],
     "kutipan": "“General Unsecured Claim” means any Claim that is not a (a) Administrative Claim; (b) 503(b)(9) Claim; (c) Priority Tax Claim; (d) Other Priority Claim; (e) Secured Claim; (f) Separate Subsidiary Claim; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Digital Asset Loan Claim; (n) PropCo Operating Expense Claim; (o) Priority DM Claim; (p) PropCo General Unsecured Claim; (q) Intercompany Claim; (r) Senior Subordinated IRS Claim; (s) Senior Subordinated Governmental Claim; (t) Junior Subordinated IRS Claim; (u) Equitably Subordinated Claim; (v) FTT Claim or Interest; (w) Section 510(b) Preferred Equity Claim; (x) Section 510(b) Other Equity Claim; (y) De Minimis Claim; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; or (bb) Alameda U.S. Customer Claim.",
