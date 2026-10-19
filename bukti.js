@@ -4,11 +4,419 @@
 //  langsung = URL → klik footnote langsung membuka link (tanpa popup)
 // =====================================================================
 window.BUKTI = {
+  1: {
+    "halaman": "Hal. 98 (berkas PDF hal. 2)",
+    "gambar": [
+      {
+        "src": "img./fn001-1-asli.png",
+        "ket": "Bina Ekonomi Vol. 26 No. 2, hal. 98"
+      }
+    ],
+    "kutipan": "Menurut Fama, Fumagalli, dan Lucarelli (2019) teknologi informasi dan komunikasi (TIK) telah membuka peluang baru yang belum pernah terjadi sebelumnya untuk pengembangan sistem transaksi yang dapat bekerja tanpa memerlukan perantara atau otoritas pusat. Pasalnya dari perkembangan TIK transaksi keuangan khususnya uang itu sendiri yang semula melakukan transaksi secara tunai berubah menjadi transaksi secara digital."
+  },
+  3: {
+    "halaman": "Hal. 4, Executive Summary (berkas PDF hal. 5)",
+    "catatan": "Footnote di naskah tidak mencantumkan halaman; data diambil dari Executive Summary laporan.",
+    "gambar": [
+      {
+        "src": "img./fn003-1-asli.png",
+        "ket": "Crypto Market Sizing Report 2025, hal. 4",
+        "src_id": "img./fn003-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "Global cryptocurrency owners increased by 12.4% in 2025, rising from 659 million in 2024 to 741 million in 2025. ○ Based on our on-chain estimates: ■ Bitcoin BTC owners grew by 8.3%, from 337 million in 2024 to 365 million in 2025, accounting for 49.3% of global owners. ■ Ethereum ETH owners grew by 22.6%, from 142 million in 2024 to 175 million in 2025, accounting for 23.6% of global owners.",
+    "terjemahan": "● Jumlah pemilik mata uang kripto global meningkat sebesar 12,4% pada tahun 2025, naik dari 659 juta pada tahun 2024 menjadi 741 juta pada tahun 2025.\n○ Berdasarkan estimasi on-chain kami:\n■ Pemilik Bitcoin (BTC) tumbuh sebesar 8,3%, dari 337 juta pada tahun 2024 menjadi 365 juta pada tahun 2025, atau 49,3% dari total pemilik global.\n■ Pemilik Ethereum (ETH) tumbuh sebesar 22,6%, dari 142 juta pada tahun 2024 menjadi 175 juta pada tahun 2025, atau 23,6% dari total pemilik global."
+  },
+  7: {
+    "halaman": "Hal. 52 (berkas PDF hal. 20)",
+    "gambar": [
+      {
+        "src": "img./fn007-1-asli.png",
+        "ket": "Jurnal Mahadi Vol. 1 No. 1, hal. 52"
+      }
+    ],
+    "kutipan": "Oleh karena itu, perlu adanya pengaturan mengenai resiko-resiko yang mungkin terjadi dalam perdagangan aset kripto. Ketiga, permasalahan aktual yang saat ini menjadi wacana untuk dibentuk pengaturannya adalah terkait pemungutan pajak perdagangan aset kripto."
+  },
+  11: {
+    "halaman": "Hal. 1",
+    "gambar": [
+      {
+        "src": "img./fn011-1-asli.png",
+        "ket": "NIBM Explainer No. 2/2022, hal. 1",
+        "src_id": "img./fn011-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "Founded in 2019, FTX quickly rose to eminence in the digital asset space, reaching the million-user mark by 2021 and reaching a valuation of over $30 billion from its last series C funding round. Group of companies under FTX empire are more than 100 in number and are incorporated across the globe while the main entity running the FTX exchange was operated out of the Bahamas. Its American partner, FTX US, had overlapping management teams but separate capital structures, allowing US residents to trade, as they were not allowed to do so on the main platform operating out of the Bahamas. FTX was established to be a cryptocurrency exchange \"built by traders, for traders",
+    "terjemahan": "Didirikan pada tahun 2019, FTX dengan cepat menjadi terkemuka di bidang aset digital, mencapai satu juta pengguna pada tahun 2021 dan valuasi lebih dari $30 miliar dari putaran pendanaan seri C terakhirnya. Kelompok perusahaan di bawah kerajaan FTX berjumlah lebih dari 100 dan didirikan di berbagai negara, sementara entitas utama yang menjalankan bursa FTX dioperasikan dari Bahama. Mitra Amerikanya, FTX US, memiliki tim manajemen yang tumpang tindih tetapi struktur permodalan yang terpisah, sehingga penduduk AS dapat berdagang, karena mereka tidak diizinkan melakukannya di platform utama yang beroperasi dari Bahama. FTX didirikan sebagai bursa mata uang kripto yang “dibangun oleh trader, untuk trader”."
+  },
+  18: {
+    "halaman": "Hal. 1266 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn018-1-asli.png",
+        "ket": "Jurnal USM Law Review Vol. 6 No. 3, hal. 1266"
+      }
+    ],
+    "kutipan": "Menurut hukum US Bankruptcy Code, ada dua bentuk bankruptcy yakni (1) liquiation (2) rehabilation, Chapter 7 dan Bankruptcy Code dengan judul Liquidation."
+  },
+  19: {
+    "halaman": "Hal. 1275 (berkas PDF hal. 14)",
+    "gambar": [
+      {
+        "src": "img./fn019-1-asli.png",
+        "ket": "Jurnal USM Law Review Vol. 6 No. 3, hal. 1275"
+      }
+    ],
+    "kutipan": "bagi debitur bank dan asuransi tidak dibolehkan memilih Chapter 7 US Bankruptcy Code yang dimaksudkan untuk melikuidasi usahanya, apabila para debitur tersebut ingin mendapat perlindungan hukum kepailitan maka dapat dilakukan melalui Chapter 11 US Bankruptcy Code."
+  },
+  26: {
+    "halaman": "Hal. 12",
+    "gambar": [
+      {
+        "src": "img./fn026-1-asli.png",
+        "ket": "Jurnal Penegakan Hukum Indonesia Vol. 2 No. 1, hal. 12"
+      }
+    ],
+    "kutipan": "Pendekatan kasus (case approaches): berbeda dengan penelitian sosiologis pendekatan kasus dalam penelitian normative dilakukan dengan mempelajari perkara-perkara hukum, baik yang sedang terjadi maupun yang tertuang dalam putusan-putusan pengadilan sebagai pendukung argumentasi hukum dalam merumuskan analisis yang bersifat preskriptif."
+  },
+  34: {
+    "halaman": "Halaman judul",
+    "catatan": "Footnote merujuk skripsi secara keseluruhan (tanpa nomor halaman), sehingga yang ditampilkan adalah halaman judulnya.",
+    "gambar": [
+      {
+        "src": "img./fn034-1-asli.png",
+        "ket": "Skripsi Alaika Valzana (Repositori USU)"
+      }
+    ]
+  },
+  35: {
+    "halaman": "Halaman judul",
+    "catatan": "Footnote merujuk skripsi secara keseluruhan (tanpa nomor halaman), sehingga yang ditampilkan adalah halaman judulnya. Perhatikan: judul di halaman sampul berbunyi “…Sebagai Boedel Pailit”, sedangkan di footnote tertulis “…Sebagai Harta Pailit”.",
+    "gambar": [
+      {
+        "src": "img./fn035-1-asli.png",
+        "ket": "Skripsi Muhamad Dafa Razwa Ramadhan (Universitas Lampung)"
+      }
+    ]
+  },
   36: {
     "langsung": "https://digilib.uns.ac.id/dokumen/detail/111968/Legalitas-Bitcoin-sebagai-Aset-Debitur-dalam-Kepailitan"
   },
+  37: {
+    "halaman": "Halaman judul",
+    "catatan": "Footnote merujuk skripsi secara keseluruhan (tanpa nomor halaman), sehingga yang ditampilkan adalah halaman judulnya. Perhatikan: di halaman sampul tertulis “ASIXV2V”, sedangkan di footnote tertulis “ASIXV2V2”.",
+    "gambar": [
+      {
+        "src": "img./fn037-1-asli.png",
+        "ket": "Skripsi Al Kindi (Universitas Islam Indonesia)"
+      }
+    ]
+  },
+  38: {
+    "halaman": "Halaman judul",
+    "catatan": "Footnote merujuk skripsi secara keseluruhan (tanpa nomor halaman), sehingga yang ditampilkan adalah halaman judulnya.",
+    "gambar": [
+      {
+        "src": "img./fn038-1-asli.png",
+        "ket": "Skripsi Gabriella Putri Sthevanie (Universitas Sriwijaya)"
+      }
+    ]
+  },
   39: {
     "langsung": "https://digilib.unila.ac.id/65540/3/3.%20SKRIPSI%20TANPA%20BAB%20PEMBAHASAN.pdf"
+  },
+  45: {
+    "halaman": "Hal. 705 (berkas PDF hal. 9, kolom kanan)",
+    "gambar": [
+      {
+        "src": "img./fn045-1-asli.png",
+        "ket": "Jurnal Education and Development Vol. 10 No. 2"
+      }
+    ],
+    "kutipan": "Perlindungan hukum bagi investor cryptocurrency secara preventif diatur dalam UU Perdagangan dan UU Perlindungan Konsumen, dimana menegaskan untuk kegiatan perdagangan yang menggunakan sistem elektronik wajib menyediakan data dan/atau informasi secara lengkap dan benar."
+  },
+  78: {
+    "halaman": "Hal. 731 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn078-1-asli.png",
+        "ket": "Judge: Jurnal Hukum Vol. 6 No. 3, hal. 731"
+      }
+    ],
+    "kutipan": "Pembagian benda dalam KUHPerdata juga mengikuti dikotomi klasik: benda bergerak dan tidak bergerak, benda berwujud dan tidak berwujud, di mana kategori \"benda tidak berwujud\" yang diakui masih sangat terbatas pada hak-hak konvensional seperti piutang, hak kekayaan intelektual, atau saham perusahaan yang keberadaannya tetap terkait dengan entitas fisik atau sistem terpusat yang dapat diidentifikasi dan diawasi. Aset kripto, dengan karakteristiknya yang sepenuhnya digital, terdesentralisasi, dan tidak memiliki eksistensi material, menantang kategorisasi tradisional ini secara fundamental, karena tidak dapat dengan mudah diklasifikasikan ke dalam salah satu kategori yang telah ada tanpa melakukan interpretasi ekstensif yang berpotensi menimbulkan ketidakpastian hukum."
+  },
+  79: {
+    "halaman": "Hal. 498 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn079-1-asli.png",
+        "ket": "Multilingual Vol. 5 No. 1, hal. 498"
+      }
+    ],
+    "kutipan": "Sedangkan Pasal 503 KUHPerdata lebih lanjut membagi benda menjadi benda berwujud dan benda tidak berwujud. Benda tidak berwujud dalam tradisi hukum perdata Indonesia umumnya merujuk pada hakhak yang memiliki nilai ekonomis seperti piutang, hak cipta, paten, dan bentuk kekayaan intelektual lainnya."
+  },
+  80: {
+    "halaman": "Hal. 498 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn080-1-asli.png",
+        "ket": "Multilingual Vol. 5 No. 1, hal. 498"
+      }
+    ],
+    "kutipan": "Ditinjau dari unsur-unsur benda tidak berwujud, aset kripto memenuhi beberapa karakteristik penting."
+  },
+  81: {
+    "halaman": "Hal. 165 (berkas PDF hal. 8)",
+    "gambar": [
+      {
+        "src": "img./fn081-1-asli.png",
+        "ket": "Aliansi Vol. 1 No. 5, hal. 165"
+      }
+    ],
+    "kutipan": "Melihat karakteristiknya yang dapat dipindahkan dari suatu wallet ke wallet lainnya, dapat disimpulkan bahwa aset kripto merupakan benda bergerak."
+  },
+  82: {
+    "halaman": "Hal. 165 (berkas PDF hal. 8)",
+    "gambar": [
+      {
+        "src": "img./fn082-1-asli.png",
+        "ket": "Aliansi Vol. 1 No. 5, hal. 165"
+      }
+    ],
+    "kutipan": "Bezit sendiri, menurut ketentuan Pasal 529 KUHPerdata, ialah kedudukan seseorang yang menguasai suatu kebendaan, baik dengan diri sendiri, maupun dengan perantaraan orang lain, dan yang mempertahankan atau menikmatinya selaku orang yang memiliki kebendaan itu."
+  },
+  83: {
+    "halaman": "Hal. 168 (berkas PDF hal. 11)",
+    "gambar": [
+      {
+        "src": "img./fn083-1-asli.png",
+        "ket": "Aliansi Vol. 1 No. 5, hal. 168"
+      }
+    ],
+    "kutipan": "Memperoleh aset kripto dengan cara pendakuan atau toeigening merupakan ide dasar ketika aset kripto pertama kali dicetuskan, yakni mining. Proses mining memberikan insentif berupa aset kripto baru kepada miners. Struktur insentif ini dinamakan proof-ofwork. Lewat proof-of-work, para miners menghabiskan sumber daya berupa listrik dan kemampuan komputer untuk memverifikasi transaksi. Sebagai imbalan, miners pertama yang dapat menyelesaikan verifikasi akan mendapat aset kripto yang baru diterbitkan (Steer, 2019). Aset kripto baru yang didapatkan oleh miners merupakan res nullius, yakni benda yang tidak ada pemiliknya karena kegiatan verifikasi transaksi tersebut sama dengan menciptakan aset kripto baru yang telah diatur oleh protokol, bukan dari penyerahan. Dengan mendapatkan aset kripto lewat mining, pemiliknya mendapatkan hak milik sekaligus bezit original dari aset kripto tersebut."
+  },
+  84: {
+    "halaman": "Hal. 165 (berkas PDF hal. 8)",
+    "gambar": [
+      {
+        "src": "img./fn084-1-asli.png",
+        "ket": "Aliansi Vol. 1 No. 5, hal. 165"
+      }
+    ],
+    "kutipan": "Berdasarkan penjelasan di atas, aset kripto dapat dilekati hak milik karena pemegangnya dapat memperlakukannya secara bebas."
+  },
+  85: {
+    "halaman": "Hal. 500 (berkas PDF hal. 7)",
+    "gambar": [
+      {
+        "src": "img./fn085-1-asli.png",
+        "ket": "Multilingual Vol. 5 No. 1, hal. 500"
+      }
+    ],
+    "kutipan": "Kualifikasi aset kripto sebagai benda tidak berwujud secara teoretis memungkinkan aset kripto menjadi objek jaminan, baik dalam bentuk gadai maupun fidusia."
+  },
+  86: {
+    "halaman": "Hal. 502 (berkas PDF hal. 9)",
+    "gambar": [
+      {
+        "src": "img./fn086-1-asli.png",
+        "ket": "Multilingual Vol. 5 No. 1, hal. 502"
+      }
+    ],
+    "kutipan": "Kualifikasi hukum ini membawa implikasi yuridis penting dalam berbagai aspek keperdataan, termasuk perlindungan hak kebendaan, peralihan hak, perpajakan, penggunaan sebagai objek jaminan, dan aspek pewarisan aset kripto."
+  },
+  91: {
+    "halaman": "Hal. 1005 (berkas PDF hal. 2)",
+    "gambar": [
+      {
+        "src": "img./fn091-1-asli.png",
+        "ket": "JINU Vol. 3 No. 3, hal. 1005"
+      }
+    ],
+    "kutipan": "Private key berperan sebagai kunci digital eksklusif yang berfungsi sebagai satusatunya instrumen untuk memberikan otorisasi pemindahan hak milik atas aset digital tersebut. Tanpa adanya private key, nilai ekonomis yang tersimpan di dalam blockchain tidak mungkin dapat diakses atau dialihkan, sehingga menjadikannya elemen paling krusial dalam eksistensi kepemilikan digital."
+  },
+  92: {
+    "halaman": "Hal. 136 (berkas PDF hal. 1)",
+    "gambar": [
+      {
+        "src": "img./fn092-1-asli.png",
+        "ket": "Bulletin of Information Technology Vol. 6 No. 2, hal. 136"
+      }
+    ],
+    "kutipan": "Seed phrase adalah kumpulan kata acak yang dihasilkan saat pembuatan dompet dan berfungsi sebagai kunci utama untuk memulihkan akses ke aset digital. Siapa pun yang memiliki akses ke seed phrase, secara teknis memiliki kuasa penuh atas aset yang tersimpan di dalam dompet tersebut."
+  },
+  94: {
+    "halaman": "Hal. 1355 (berkas PDF hal. 1)",
+    "gambar": [
+      {
+        "src": "img./fn094-1-asli.png",
+        "ket": "HUMANITIS Vol. 2 No. 10, hal. 1355"
+      }
+    ],
+    "kutipan": "Terdapat 3 (tiga) unsur wanprestasi dalam Pasal 1243 KUH-Perdata, yaitu adanya perjanjian, ada pihak yang ingkar janji atau melanggar perjanjian, dan telah dinyatakan lalai namun tetap tidak melaksanakan isi perjanjian."
+  },
+  95: {
+    "halaman": "Hal. 173 (kolom kiri)",
+    "gambar": [
+      {
+        "src": "img./fn095-1-asli.png",
+        "ket": "Lex Privatum Vol. IV No. 2, hal. 173"
+      }
+    ],
+    "kutipan": "Faktor yang mempengaruhi keadaan memaksa (force majeure), menurut KUH Perdata ada 3 (tiga) unsur yang harus dipenuhi untuk keadaan memaksa, yaitu : a.Tidak memenuhi prestasi; b. Ada sebab yang terletak di luar kesalahan debitur ; c.Faktor penyebab itu tidak dapat di duga sebelumnya dan tidak dapat dipertanggungjawabkan kepada debitur."
+  },
+  96: {
+    "halaman": "Hal. 169 (berkas PDF hal. 3)",
+    "gambar": [
+      {
+        "src": "img./fn096-1-asli.png",
+        "ket": "J-DIKUMSI Vol. 1 No. 3, hal. 169"
+      }
+    ],
+    "kutipan": "Berdasarkan doktrin umum (Setiawan, Subekti, R. Wirjono Prodjodikoro), unsur-unsur PMH terdiri dari: 1. Adanya perbuatan (positif atau negatif/kelalaian). 2. Perbuatan tersebut melawan hukum. 3. Adanya kesalahan (dolus atau culpa). 4. Adanya kerugian yang dialami pihak lain. 5. Adanya hubungan kausal antara perbuatan dengan kerugian. Apabila kelima unsur ini terpenuhi, pelaku dapat dimintai tanggung jawab perdata."
+  },
+  97: {
+    "halaman": "Hal. 29",
+    "gambar": [
+      {
+        "src": "img./fn097-1-asli.png",
+        "ket": "Lex Prospicit Vol. 3 No. 1"
+      }
+    ],
+    "kutipan": "Pemberian kewenangan baru kepada OJK untuk mengatur dan mengawasi aset kripto melalui UU P2SK menimbulkan permasalahan hukum terkait peralihan kewenangan dari Badan Pengawas Perdagangan Berjangka Komoditi (Bappebti) yang sebelumnya bertanggung jawab terhadap aset kripto."
+  },
+  98: {
+    "halaman": "Hal. 888 (berkas PDF hal. 2)",
+    "gambar": [
+      {
+        "src": "img./fn098-1-asli.png",
+        "ket": "HAKIM Vol. 2 No. 4, hal. 888"
+      }
+    ],
+    "kutipan": "Di Indonesia, pengawasan aset kripto pada awalnya dilakukan oleh Badan Pengawas Perdagangan Berjangka Komoditi (Kusumaningsih, 2023). Namun, seiring dengan perkembangan aset kripto yang semakin kompleks dan keperluan terhadap praktik integrasi dengan sistem keuangan yang semakin luas, maka pemerintah melalui Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan (UU P2SK) Pasal 312 secara eksplisit memutuskan untuk memindahkan kewenangan pengawasan aset kripto ke Otoritas Jasa Keuangan (Lewiandy, 2022)."
+  },
+  99: {
+    "halaman": "Hal. 891 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn099-1-asli.png",
+        "ket": "HAKIM Vol. 2 No. 4, hal. 891"
+      }
+    ],
+    "kutipan": "Meskipun masih dalam masa transisi, OJK telah menerbitkan Rancangan Peraturan OJK (RPOJK) tentang Penyelenggaraan Perdagangan Aset Keuangan Digital dan Aset Kripto, yang mencakup berbagai aspek seperti perizinan, tata kelola, perlindungan konsumen, dan perlindungan data pribadi."
+  },
+  106: {
+    "halaman": "Hal. 95",
+    "gambar": [
+      {
+        "src": "img./fn106-1-asli.png",
+        "ket": "Amandemen Vol. 2 No. 4"
+      }
+    ],
+    "kutipan": "Dimana mekanismme kepailitan memiliki tujuan untuk menghindari debitor ditagih secara bersamaan oleh para kreditornya, untuk menghindari kreditor yang merugikan kreditor lainnya, dan menghindari debitor melakukan kecurangan yang dapat merugikan kreditornya (Ratu Alawiyyah Rifani, Fauziah, & Muhammad Fahruddin, 2021). Oleh karena itu, penyelesaian utang piutang melalui mekanisme kepailitan harus dapat memenuhi tujuan yang hendak dicapai berdasarkan UUKPKPU. Apabila tidak dapat dicapai maka sebaiknya penyelesaian utang piutang tersebut menggunakan penyelesaian hukum yang lain."
+  },
+  108: {
+    "halaman": "Hal. 157 (kolom kiri)",
+    "gambar": [
+      {
+        "src": "img./fn108-1-asli.png",
+        "ket": "Jurnal Hukum Justice Vol. 3 No. 2"
+      }
+    ],
+    "kutipan": "memungkinkan penyelesaian utang dilakukan secara kolektif,14 sehingga tidak terjadi tindakan penagihan secara sepihak oleh masing-masing kreditor.15 Dengan adanya kepailitan, seluruh harta kekayaan debitor ditempatkan dalam suatu proses pengurusan dan pemberesan16 yang terpusat di bawah pengawasan hukum."
+  },
+  114: {
+    "halaman": "Hal. 14 (kolom kanan)",
+    "gambar": [
+      {
+        "src": "img./fn114-1-asli.png",
+        "ket": "Jurnal Dinamika Sosial Budaya Vol. 19 No. 1, hal. 14"
+      }
+    ],
+    "kutipan": "Urusan tersebut harus diserahkan kepada kurator, kuratorlah yang akan melakukan pengurusan dan pemberesan harta pailit tersebut."
+  },
+  116: {
+    "halaman": "Hal. 194 (berkas PDF hal. 3)",
+    "gambar": [
+      {
+        "src": "img./fn116-1-asli.png",
+        "ket": "Jurnal Ius Constituendum Vol. 7 No. 2, hal. 194"
+      }
+    ],
+    "kutipan": "secara khusus, Hakim Pengawas bertugas mengawasi peristiwa yang terjadi di Dewan Kepailitan dan menentukan apakah Kurator benar-benar mematuhi semua peraturan dan ketentuan yang berlaku."
+  },
+  117: {
+    "halaman": "Hal. 196 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn117-1-asli.png",
+        "ket": "Jurnal Ius Constituendum Vol. 7 No. 2, hal. 196"
+      }
+    ],
+    "kutipan": "Menurut perspektif praktik peradilan putusan pailit lazimnya berisikan ammar/diktum menyatakan debitur .... pailit beserta akibat hukumnya, kemudian menunjuk Hakim …. pada Pengadilan Niaga .... sebagai Hakim Pengawas dan dan menunjuk …. sebagai Kurator."
+  },
+  125: {
+    "halaman": "Hal. 308",
+    "gambar": [
+      {
+        "src": "img./fn125-1-asli.png",
+        "ket": "Verstek Vol. 10 No. 2"
+      }
+    ],
+    "kutipan": "Suatu ketentuan yang tidak dijelaskan secara implisit di dalam peraturan perundang-undangan tentu tidak dapat memberikan kepastian dan akan menimbulkan multitafsir bagi beberapa orang. Pasal tersebut menyebabkan tidak adanya suatu batasan terhadap definisi harta pailit tersebut, yang menyebabkan para pihak yang akan mengeksekusi harta pailit tersebut akan memiliki pendapat-pendapat masing-masing terkait apa saja yang termasuk ke dalam harta pailit itu sendiri."
+  },
+  126: {
+    "halaman": "Hal. 300 (berkas PDF hal. 2)",
+    "gambar": [
+      {
+        "src": "img./fn126-1-asli.png",
+        "ket": "Masalah-Masalah Hukum Vol. 51 No. 3, hal. 300"
+      }
+    ],
+    "kutipan": "Jenis harta pailit debitor salah satunya berupa intangible asset yaitu harta yang tidak memiliki wujud fisik (Salam, 2014). Intangible asset dalam perkembangannya semakin bervariasi dan salah satu bentuk intangible asset yang berkembang pada saat ini adalah mata uang kripto."
+  },
+  132: {
+    "halaman": "Hal. 58 (kolom kiri)",
+    "gambar": [
+      {
+        "src": "img./fn132-1-asli.png",
+        "ket": "Forum Ilmiah Vol. 13 No. 1"
+      }
+    ],
+    "kutipan": "Dengan hak yang dimiliki, Kreditor separatis dapat menjual sendiri barang-barang yang menjadi jaminan, seolah-olah tidak terjadi kepailitan. Dari hasil penjualan tersebut, Kreditor separatismengambil sebesar piutangnya dan sisanya diserahkan ke Kurator sebagai boedel atau harta pailit."
+  },
+  141: {
+    "halaman": "Hal. 2",
+    "catatan": "Naskah merujuk Loc.cit. ke footnote 11 (hal. 1–2).",
+    "gambar": [
+      {
+        "src": "img./fn141-1-asli.png",
+        "ket": "NIBM Explainer No. 2/2022, hal. 2",
+        "src_id": "img./fn141-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "Despite being established as two separate entities, FTX and Alameda Research allegedly operated very closely over the years. Funds were moving from one entity to the other without FTX customers' knowledge or approval. The close ties between FTX and Alameda also ultimately threw both companies into bankruptcy.",
+    "terjemahan": "Meskipun didirikan sebagai dua entitas yang terpisah, FTX dan Alameda Research diduga beroperasi dengan sangat erat selama bertahun-tahun. Dana berpindah dari satu entitas ke entitas lainnya tanpa sepengetahuan atau persetujuan nasabah FTX. Kedekatan hubungan antara FTX dan Alameda pada akhirnya juga menjerumuskan kedua perusahaan ke dalam kepailitan."
+  },
+  142: {
+    "halaman": "Hal. 18",
+    "gambar": [
+      {
+        "src": "img./fn142-1-asli.png",
+        "ket": "Jembatan Hukum Vol. 2 No. 1"
+      }
+    ],
+    "kutipan": "pailit dalam Pasal 21 UUK-PKPU jelas dikatakan bahwasannya harta pailit yaitu harta miliki debitur atau dengan kata lain harta yang tercatat atau terdaftar atas nama debitur pailit."
+  },
+  143: {
+    "halaman": "Hal. 10",
+    "gambar": [
+      {
+        "src": "img./fn143-1-asli.png",
+        "ket": "Jurnal Supremasi Vol. 14 No. 2"
+      }
+    ],
+    "kutipan": "Selain itu, hak revindikasi, sebagaimana diatur dalam Pasal 574 KUH Perdata, memungkinkan pemilik untuk menuntut pengembalian benda yang berada di luar kendalinya dalam kondisi semula."
   },
   144: {
     "halaman": "Hal. 3099 (berkas PDF hal. 8)",
@@ -66,6 +474,26 @@ window.BUKTI = {
     ],
     "kutipan": "Meeting of creditors Tuesday, December 20, 2022 ____________________________ Date The Debtors' representative To be held telephonically. To must attend the meeting to at 10:00 a.m. (Eastern Time) Location: join the meeting, please call be questioned under oath. 888-790-3561 and use access Creditors may attend, but Time code 7861992. are not required to do so.",
     "terjemahan": "6. Rapat kreditor — Selasa, 20 Desember 2022.\n\nPerwakilan Debitor wajib menghadiri rapat untuk diperiksa di bawah sumpah. Kreditor boleh hadir, tetapi tidak diwajibkan."
+  },
+  156: {
+    "halaman": "Hal. 34 (berkas PDF hal. 5)",
+    "gambar": [
+      {
+        "src": "img./fn156-1-asli.png",
+        "ket": "Ius Quia Iustum, hal. 34"
+      }
+    ],
+    "kutipan": "Chapter 11 Bankruptcy Code Amerika Serikat menjadi acuan beberapa negara dalam melakukan perubahan Undang-Undang Kepailitan.22 Misalnya, Civil Rehabilitation Law di Jepang mengakomodasi Debtor in Possession dalam Chapter 11.23 Safeguard procedure di Perancis mengacu pada reorganisasi dalam Chapter 11,24 dan pembaruan Undang-Undang Kepailitan perusahaan di beberapa negara Eropa lainnya mengambil model yang mirip dengan Debtor in Possession"
+  },
+  157: {
+    "halaman": "Hal. 1264 (berkas PDF hal. 3)",
+    "gambar": [
+      {
+        "src": "img./fn157-1-asli.png",
+        "ket": "Jurnal USM Law Review Vol. 6 No. 3, hal. 1264"
+      }
+    ],
+    "kutipan": "Perusahaan debitur masih bisa beroperasi dan sambil melakukan kewajibannya untu k melunasi utang kepada para krediturnya dalam Reorganisasi. Mengenai pengajuan Reorgansasi, debitur tidak harus menunggu sampai mengalami keadaan insolven."
   },
   165: {
     "halaman": "Hal. 2, paragraf 5",
@@ -167,6 +595,18 @@ window.BUKTI = {
     ],
     "kutipan": "These balances exclude cryptocurrency not currently under the Debtors’ control as a result of (a) at least $372 million of unauthorized transfers initiated on the Petition Date, during which time the Debtors immediately began moving cryptocurrency into cold storage to mitigate the risk to the remaining cryptocurrency that was accessible at the time,",
     "terjemahan": "Saldo tersebut tidak mencakup mata uang kripto yang saat ini tidak berada dalam penguasaan Debitor sebagai akibat dari (a) sedikitnya $372 juta pemindahan tidak sah (unauthorized transfers) yang dimulai pada Tanggal Pengajuan Permohonan, yang pada saat itu Debitor segera mulai memindahkan mata uang kripto ke dalam cold storage untuk memitigasi risiko terhadap sisa mata uang kripto yang masih dapat diakses pada saat itu,"
+  },
+  173: {
+    "halaman": "Hal. 8, kolom kanan",
+    "gambar": [
+      {
+        "src": "img./fn173-1-asli.png",
+        "ket": "Hogan Lovells, Digital Asset Custody Paper, hal. 8",
+        "src_id": "img./fn173-1-terjemahan.png"
+      }
+    ],
+    "kutipan": "Segregated models – Under segregated models, a custodian separates clients’ assets, so that client assets are not commingled with the assets of another client or of the custody provider.",
+    "terjemahan": "Model tersegregasi – Dalam model tersegregasi, kustodian memisahkan aset para kliennya, sehingga aset klien tidak tercampur dengan aset klien lain maupun aset milik penyedia jasa kustodian."
   },
   175: {
     "halaman": "Hal. 10, klausul 8.2.6",
@@ -762,5 +1202,39 @@ window.BUKTI = {
     "kutipan": "“General Unsecured Claim” means any Claim that is not a (a) Administrative Claim; (b) 503(b)(9) Claim; (c) Priority Tax Claim; (d) Other Priority Claim; (e) Secured Claim; (f) Separate Subsidiary Claim; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Digital Asset Loan Claim; (n) PropCo Operating Expense Claim; (o) Priority DM Claim; (p) PropCo General Unsecured Claim; (q) Intercompany Claim; (r) Senior Subordinated IRS Claim; (s) Senior Subordinated Governmental Claim; (t) Junior Subordinated IRS Claim; (u) Equitably Subordinated Claim; (v) FTT Claim or Interest; (w) Section 510(b) Preferred Equity Claim; (x) Section 510(b) Other Equity Claim; (y) De Minimis Claim; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; or (bb) Alameda U.S. Customer Claim.",
     "terjemahan": "“General Unsecured Claim” (Klaim Umum Tanpa Jaminan) berarti setiap Klaim yang bukan merupakan (a) Klaim Administratif; (b) Klaim 503(b)(9); (c) Klaim Pajak Prioritas; (d) Klaim Prioritas Lainnya; (e) Klaim Berjaminan; (f) Klaim Anak Perusahaan Terpisah; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Klaim Pinjaman Aset Digital; (n) Klaim Biaya Operasional PropCo; (o) Klaim Prioritas DM; (p) Klaim Umum Tanpa Jaminan PropCo; (q) Klaim Antarperusahaan; (r) Klaim IRS Subordinasi Senior; (s) Klaim Pemerintah Subordinasi Senior; (t) Klaim IRS Subordinasi Junior; (u) Klaim yang Disubordinasikan secara Ekuitas; (v) Klaim atau Kepentingan FTT; (w) Klaim Ekuitas Preferen Section 510(b); (x) Klaim Ekuitas Lainnya Section 510(b); (y) Klaim De Minimis; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; atau (bb) Alameda U.S. Customer Claim.",
     "catatan": "Bagian sumber yang dirujuk sama dengan catatan kaki 184."
+  },
+  220: {
+    "halaman": "Hal. 31–32",
+    "gambar": [
+      {
+        "src": "img./fn220-1-asli.png",
+        "ket": "Jurnal Judiciary Vol. 1 No. 1, hal. 31"
+      },
+      {
+        "src": "img./fn220-2-asli.png",
+        "ket": "Hal. 32"
+      }
+    ],
+    "kutipan": "Tidak semua Kreditor mempunyai kedudukan yang sama. Perbedaan Kreditor tersebut semata-mata ditentukan oleh jenis\n\nSifat piutang tersebut adalah: 1) Piutang Separatis yaitu piutang dengan jaminan kebendaan tertentu (seperti Hak Tanggungan, Gadai, Jaminan Fidusia ) – Pasal 1133 KUHPerdata; 2) Piutang dengan hak preferensi umum. Piutang ini terkait dengan harta pailit secara umum - Pasal 1149 KUHPerdata; 3) Piutang dengan hak prefensi Khusus. Piutang ini terkait dengan harta pailit tertentu – Pasal 1139 KUHPerdata; 4) Piutang Konkuren. Piutang dengan pembayaran secara prorata bases – pasal 1131- 1132 KUHPerdata); 5) Piutang istimewa khusus."
+  },
+  221: {
+    "halaman": "Hal. 32 (kolom kiri)",
+    "gambar": [
+      {
+        "src": "img./fn221-1-asli.png",
+        "ket": "Jurnal Judiciary Vol. 1 No. 1, hal. 32"
+      }
+    ],
+    "kutipan": "Piutang Separatis yaitu piutang dengan jaminan kebendaan tertentu (seperti Hak Tanggungan, Gadai, Jaminan Fidusia ) – Pasal 1133 KUHPerdata;"
+  },
+  222: {
+    "halaman": "Hal. 31 (kolom kanan)",
+    "gambar": [
+      {
+        "src": "img./fn222-1-asli.png",
+        "ket": "Jurnal Judiciary Vol. 1 No. 1, hal. 31"
+      }
+    ],
+    "kutipan": "Kreditor Konkuren (unsecured creditor) yakni kreditor yang harus berbagi dengan para kreditor yang lain secara proporsional, atau disebut juga secara pari passu, yaitu menurut perbandingan besarnya masing-masing tagihan mereka, dari hasil penjualan harta kekayaan debitor yang tidak dibebani dengan hak jaminan."
   },
 };
