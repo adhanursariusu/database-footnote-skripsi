@@ -1203,6 +1203,28 @@ window.BUKTI = {
     "terjemahan": "“General Unsecured Claim” (Klaim Umum Tanpa Jaminan) berarti setiap Klaim yang bukan merupakan (a) Klaim Administratif; (b) Klaim 503(b)(9); (c) Klaim Pajak Prioritas; (d) Klaim Prioritas Lainnya; (e) Klaim Berjaminan; (f) Klaim Anak Perusahaan Terpisah; (g) Dotcom Customer Entitlement Claim; (h) U.S. Customer Entitlement Claim; (i) NFT Customer Entitlement Claim; (j) Dotcom Convenience Claim; (k) U.S. Convenience Claim; (l) General Convenience Claim; (m) Klaim Pinjaman Aset Digital; (n) Klaim Biaya Operasional PropCo; (o) Klaim Prioritas DM; (p) Klaim Umum Tanpa Jaminan PropCo; (q) Klaim Antarperusahaan; (r) Klaim IRS Subordinasi Senior; (s) Klaim Pemerintah Subordinasi Senior; (t) Klaim IRS Subordinasi Junior; (u) Klaim yang Disubordinasikan secara Ekuitas; (v) Klaim atau Kepentingan FTT; (w) Klaim Ekuitas Preferen Section 510(b); (x) Klaim Ekuitas Lainnya Section 510(b); (y) Klaim De Minimis; (z) Dotcom Intercompany Shortfall Claim; (aa) U.S. Intercompany Shortfall Claim; atau (bb) Alameda U.S. Customer Claim.",
     "catatan": "Bagian sumber yang dirujuk sama dengan catatan kaki 184."
   },
+  218: {
+    "halaman": "Hal. 3099 (berkas PDF hal. 8)",
+    "gambar": [
+      {
+        "src": "img./fn144-1-asli.png",
+        "ket": "JIHHP Vol. 6 No. 4, hal. 3099"
+      }
+    ],
+    "kutipan": "Secara konseptual, berbagai literatur menegaskan bahwa kesulitan utama dalam tahap ini terletak pada karakter aset kripto yang bersifat pseudonymous, decentralized, dan tidak terintegrasi dalam sistem registrasi konvensional. Berbeda dengan aset seperti tanah atau rekening bank yang memiliki pencatatan administratif formal, kepemilikan aset kripto tidak terhubung secara langsung dengan identitas hukum subjeknya, melainkan direpresentasikan melalui wallet address. Akibatnya, kurator tidak dapat mengandalkan mekanisme pencarian berbasis data administratif, melainkan harus melakukan pendekatan berbasis teknologi untuk mengidentifikasi keberadaan aset tersebut.",
+    "catatan": "Naskah merujuk Loc.cit. ke footnote 144. Bagian sumber yang dirujuk sama dengan catatan kaki 144."
+  },
+  219: {
+    "halaman": "Hal. 3099 (berkas PDF hal. 8)",
+    "gambar": [
+      {
+        "src": "img./fn145-1-asli.png",
+        "ket": "JIHHP Vol. 6 No. 4, hal. 3099"
+      }
+    ],
+    "kutipan": "Selanjutnya, kurator dapat menggunakan blockchain forensic tools untuk melacak aliran transaksi dan mengidentifikasi wallet address yang terhubung dengan debitor. Pendekatan ini mencerminkan transformasi metode pembuktian dalam hukum kepailitan, dari yang semula berbasis dokumen fisik menuju analisis data digital berbasis teknologi.",
+    "catatan": "Bagian sumber yang dirujuk sama dengan catatan kaki 145."
+  },
   220: {
     "halaman": "Hal. 31–32",
     "gambar": [
