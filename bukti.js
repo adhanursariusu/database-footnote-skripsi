@@ -46,14 +46,30 @@ window.BUKTI = {
     "langsung": "https://ojk.go.id/id/Statistik/ITSK/Statistik-Aset-Keuangan-dan-Aset-Kripto/Pages/Statistik-Penyelenggara-Perdagangan-AKD-AK-Periode-November-2025.aspx"
   },
   7: {
-    "halaman": "Hal. 52 (berkas PDF hal. 20)",
+    "halaman": "Hal. 51–53 (berkas PDF hal. 19–21)",
     "gambar": [
       {
         "src": "img./fn007-1-asli.png",
-        "ket": "Jurnal Mahadi Vol. 1 No. 1, hal. 52"
+        "ket": "Jurnal Mahadi Vol. 1 No. 1, hal. 51 — akses ilegal/menjebol sistem pengamanan"
+      },
+      {
+        "src": "img./fn007-2-asli.png",
+        "ket": "Hal. 51 — perlindungan hukum & kepercayaan"
+      },
+      {
+        "src": "img./fn007-3-asli.png",
+        "ket": "Hal. 52 — risiko kerugian"
+      },
+      {
+        "src": "img./fn007-4-asli.png",
+        "ket": "Hal. 52 — risiko & pajak"
+      },
+      {
+        "src": "img./fn007-5-asli.png",
+        "ket": "Hal. 53 — pajak"
       }
     ],
-    "kutipan": "Oleh karena itu, perlu adanya pengaturan mengenai resiko-resiko yang mungkin terjadi dalam perdagangan aset kripto. Ketiga, permasalahan aktual yang saat ini menjadi wacana untuk dibentuk pengaturannya adalah terkait pemungutan pajak perdagangan aset kripto."
+    "kutipan": "pertama Pasal 30 pengaturan terkait pidana terhadap perbuatan dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer dan/atau Sistem Elektronik milik orang lain dengan cara apa pun termasuk dengan tujuan untuk memperoleh Informasi elektronik dan/atau Dokumen Elektronik. Khususnya yang dilakukan dengan cara melanggar, menerobos, melampaui, atau menjebol sistem pengamanan.\n\nTerdapat beberapa permasalahan hukum yang menjadi isu aktual yang juga perlu mendapatkan pengaturan yaitu pertama, perlindungan hukum terhadap pelanggan aset kripto yang melakukan transaksi merupakan aspek yang penting, karena adanya perlindungan hukum akan menumbuhkan kepercayaan masyarakat terhadap kegiatan transaksi di Pasar Fisik Aset Kripto.\n\nPentingnya Perlindungan hukum terhadap pelanggan aset kripto karena terkait risiko kerugian yang tinggi, karena transaksi dilakukan secara online sehingga pergerakan transaksi dilakukan dengan cepat dan tidak terbatas waktu (24 jam). Dalam hal ini, dapat terjadi kemungkinan kerugian terkait hilangnya margin pelanggan dalam waktu yang amat singkat yang diakibatkan oleh sistem yang digunakan tidak dapat berfungsi sebagaimana mestinya (down).\n\nOleh karena itu, perlu adanya pengaturan mengenai resiko-resiko yang mungkin terjadi dalam perdagangan aset kripto. Ketiga, permasalahan aktual yang saat ini menjadi wacana untuk dibentuk pengaturannya adalah terkait pemungutan pajak perdagangan aset kripto.\n\nDengan nilai transaksi yang tinggi, hingga saat ini belum ada aturan yang menetapkan secara khusus besaran pajak aset kripto."
   },
   10: {
     "langsung": "https://coinvestasi.com/berita/indodax-konfirmasi-diretas-siap-tanggung-kerugian-penuh"
@@ -92,19 +108,28 @@ window.BUKTI = {
       {
         "src": "img./fn019-1-asli.png",
         "ket": "Jurnal USM Law Review Vol. 6 No. 3, hal. 1275"
+      },
+      {
+        "src": "img./fn019-2-asli.png",
+        "ket": "Hal. 1275 (bawah)"
       }
     ],
-    "kutipan": "bagi debitur bank dan asuransi tidak dibolehkan memilih Chapter 7 US Bankruptcy Code yang dimaksudkan untuk melikuidasi usahanya, apabila para debitur tersebut ingin mendapat perlindungan hukum kepailitan maka dapat dilakukan melalui Chapter 11 US Bankruptcy Code."
+    "kutipan": "bagi debitur bank dan asuransi tidak dibolehkan memilih Chapter 7 US Bankruptcy Code yang dimaksudkan untuk melikuidasi usahanya, apabila para debitur tersebut ingin mendapat perlindungan hukum kepailitan maka dapat dilakukan melalui Chapter 11 US Bankruptcy Code.\n\nReorganisasi perusahaan memberikan peluang bagi perusahaan untuk mendapatkan kembali kesehatan dan kefisiensian dalam beroperasinya. Jika dengan reorganisasi perusahaan dapat memulihkan kesehatan perusahaan dan meningkatkan efisiensi operasionalnya, tentunya kemampuan perusahaan menghasilkan keuntungan akan meningkat. Sehingga, proses pelunasan utang terselesaikan. Namun, tidak ada jaminan bahwa reorganisasi akan membawa perbaikan dalam operasional. Tentu saja ini merupakan upaya yang baik karena cara-cara tersebut harus diterapkan sebelum kebangkrutan menjadi pilihan. Setidaknya, dengan reorganisasi, perusahaan dapat menganalisis penyebab kesulitan keuangannya sehingga bisa dengan segera menemukan solusi terbaik. Ini bisa divisualisasikan sebagai contoh nyata percepatan pencapaian perdamaian supaya tidak mengalami kepailitan. Pemberian izin ke debitur untuk menjalankan kegiatan usahanya juga"
   },
   26: {
-    "halaman": "Hal. 12",
+    "halaman": "Hal. 11–12",
+    "catatan": "Pendekatan perundang-undangan ada di hal. 11, pendekatan kasus di hal. 12. Istilah yang digunakan sumber: analisis yang bersifat “preskriptif”.",
     "gambar": [
       {
         "src": "img./fn026-1-asli.png",
-        "ket": "Jurnal Penegakan Hukum Indonesia Vol. 2 No. 1, hal. 12"
+        "ket": "Jurnal Penegakan Hukum Indonesia Vol. 2 No. 1, hal. 11"
+      },
+      {
+        "src": "img./fn026-2-asli.png",
+        "ket": "Hal. 12"
       }
     ],
-    "kutipan": "Pendekatan kasus (case approaches): berbeda dengan penelitian sosiologis pendekatan kasus dalam penelitian normative dilakukan dengan mempelajari perkara-perkara hukum, baik yang sedang terjadi maupun yang tertuang dalam putusan-putusan pengadilan sebagai pendukung argumentasi hukum dalam merumuskan analisis yang bersifat preskriptif."
+    "kutipan": "Pendekatan peraturan perundangan (statute approach): Pendekatan ini berusaha mengungkap makna dan tafsir dari teks perundang undangan, baik dengan cara penafsiran gramatikal, penafsiran berdasarkan sistem hukum, penafsiran otentik, argumentatun a contrarium dan berbagai metode penfasiran lainnya.\n\nPendekatan kasus (case approaches): berbeda dengan penelitian sosiologis pendekatan kasus dalam penelitian normative dilakukan dengan mempelajari perkara-perkara hukum, baik yang sedang terjadi maupun yang tertuang dalam putusan-putusan pengadilan sebagai pendukung argumentasi hukum dalam merumuskan analisis yang bersifat preskriptif."
   },
   34: {
     "halaman": "Halaman judul",
@@ -213,14 +238,19 @@ window.BUKTI = {
     "kutipan": "Sedangkan Pasal 503 KUHPerdata lebih lanjut membagi benda menjadi benda berwujud dan benda tidak berwujud. Benda tidak berwujud dalam tradisi hukum perdata Indonesia umumnya merujuk pada hakhak yang memiliki nilai ekonomis seperti piutang, hak cipta, paten, dan bentuk kekayaan intelektual lainnya."
   },
   80: {
-    "halaman": "Hal. 498 (berkas PDF hal. 5)",
+    "halaman": "Hal. 497–498 (berkas PDF hal. 4–5)",
+    "catatan": "Kalimat tentang cold wallet berada di hal. 497; uraian Pasal 503 KUHPerdata di hal. 498.",
     "gambar": [
       {
         "src": "img./fn080-1-asli.png",
-        "ket": "Multilingual Vol. 5 No. 1, hal. 498"
+        "ket": "Multilingual Vol. 5 No. 1, hal. 497 — cold wallet"
+      },
+      {
+        "src": "img./fn080-2-asli.png",
+        "ket": "Hal. 498 — Pasal 503 KUHPerdata"
       }
     ],
-    "kutipan": "Ditinjau dari unsur-unsur benda tidak berwujud, aset kripto memenuhi beberapa karakteristik penting."
+    "kutipan": "Lebih lanjut, ditinjau dari pembagian benda menurut sifatnya, aset kripto lebih tepat dikategorikan sebagai benda tidak berwujud (onlichamelijk) karena keberadaannya yang bersifat digital dan tidak memiliki wujud fisik. Meskipun aset kripto dapat direpresentasikan dalam bentuk cold wallet (perangkat penyimpanan offline), namun esensi dari aset kripto itu sendiri tetap berupa data digital yang tersimpan dalam jaringan blockchain.\n\nSedangkan Pasal 503 KUHPerdata lebih lanjut membagi benda menjadi benda berwujud dan benda tidak berwujud. Benda tidak berwujud dalam tradisi hukum perdata Indonesia umumnya merujuk pada hakhak yang memiliki nilai ekonomis seperti piutang, hak cipta, paten, dan bentuk kekayaan intelektual lainnya."
   },
   81: {
     "halaman": "Hal. 165 (berkas PDF hal. 8)",
@@ -243,14 +273,19 @@ window.BUKTI = {
     "kutipan": "Bezit sendiri, menurut ketentuan Pasal 529 KUHPerdata, ialah kedudukan seseorang yang menguasai suatu kebendaan, baik dengan diri sendiri, maupun dengan perantaraan orang lain, dan yang mempertahankan atau menikmatinya selaku orang yang memiliki kebendaan itu."
   },
   83: {
-    "halaman": "Hal. 168 (berkas PDF hal. 11)",
+    "halaman": "Hal. 168–169 (berkas PDF hal. 11–12)",
+    "catatan": "Occupatio dan traditio/levering dijelaskan di hal. 166–167, perolehan lewat mining di hal. 168, dan penerapan levering pada aset kripto berlanjut di hal. 169.",
     "gambar": [
       {
         "src": "img./fn083-1-asli.png",
         "ket": "Aliansi Vol. 1 No. 5, hal. 168"
+      },
+      {
+        "src": "img./fn083-2-asli.png",
+        "ket": "Hal. 169"
       }
     ],
-    "kutipan": "Memperoleh aset kripto dengan cara pendakuan atau toeigening merupakan ide dasar ketika aset kripto pertama kali dicetuskan, yakni mining. Proses mining memberikan insentif berupa aset kripto baru kepada miners. Struktur insentif ini dinamakan proof-ofwork. Lewat proof-of-work, para miners menghabiskan sumber daya berupa listrik dan kemampuan komputer untuk memverifikasi transaksi. Sebagai imbalan, miners pertama yang dapat menyelesaikan verifikasi akan mendapat aset kripto yang baru diterbitkan (Steer, 2019). Aset kripto baru yang didapatkan oleh miners merupakan res nullius, yakni benda yang tidak ada pemiliknya karena kegiatan verifikasi transaksi tersebut sama dengan menciptakan aset kripto baru yang telah diatur oleh protokol, bukan dari penyerahan. Dengan mendapatkan aset kripto lewat mining, pemiliknya mendapatkan hak milik sekaligus bezit original dari aset kripto tersebut."
+    "kutipan": "Memperoleh aset kripto dengan cara pendakuan atau toeigening merupakan ide dasar ketika aset kripto pertama kali dicetuskan, yakni mining. Proses mining memberikan insentif berupa aset kripto baru kepada miners. Struktur insentif ini dinamakan proof-ofwork. Lewat proof-of-work, para miners menghabiskan sumber daya berupa listrik dan kemampuan komputer untuk memverifikasi transaksi. Sebagai imbalan, miners pertama yang dapat menyelesaikan verifikasi akan mendapat aset kripto yang baru diterbitkan (Steer, 2019). Aset kripto baru yang didapatkan oleh miners merupakan res nullius, yakni benda yang tidak ada pemiliknya karena kegiatan verifikasi transaksi tersebut sama dengan menciptakan aset kripto baru yang telah diatur oleh protokol, bukan dari penyerahan. Dengan mendapatkan aset kripto lewat mining, pemiliknya mendapatkan hak milik sekaligus bezit original dari aset kripto tersebut.\n\nCara perolehan lainnya yang paling utama dan sering dilakukan adalah melalui penyerahan (levering atau overdracht) (Gozali, 2022). Ia dikenal sebagai lembaga cara perolehan hak kebendaan dalam hukum perdata Indonesia (Muhammad, 2017). Penyerahan benda bergerak berbeda dengan benda tidak bergerak. Apabila seseorang hendak memindahkan hak milik suatu benda bergerak, seketika terjadi penyerahan nyata (feitelijke levering) serta penyerahan yuridis (juridische levering) secara bersamaan ketika benda bergerak itu diberikan kepada pihak lain."
   },
   84: {
     "halaman": "Hal. 165 (berkas PDF hal. 8)",
@@ -322,14 +357,18 @@ window.BUKTI = {
     "kutipan": "Terdapat 3 (tiga) unsur wanprestasi dalam Pasal 1243 KUH-Perdata, yaitu adanya perjanjian, ada pihak yang ingkar janji atau melanggar perjanjian, dan telah dinyatakan lalai namun tetap tidak melaksanakan isi perjanjian."
   },
   95: {
-    "halaman": "Hal. 173 (kolom kiri)",
+    "halaman": "Hal. 173",
     "gambar": [
       {
         "src": "img./fn095-1-asli.png",
-        "ket": "Lex Privatum Vol. IV No. 2, hal. 173"
+        "ket": "Lex Privatum Vol. IV No. 2, hal. 173 (kolom kanan)"
+      },
+      {
+        "src": "img./fn095-2-asli.png",
+        "ket": "Hal. 173 (kolom kiri)"
       }
     ],
-    "kutipan": "Faktor yang mempengaruhi keadaan memaksa (force majeure), menurut KUH Perdata ada 3 (tiga) unsur yang harus dipenuhi untuk keadaan memaksa, yaitu : a.Tidak memenuhi prestasi; b. Ada sebab yang terletak di luar kesalahan debitur ; c.Faktor penyebab itu tidak dapat di duga sebelumnya dan tidak dapat dipertanggungjawabkan kepada debitur."
+    "kutipan": "dimana seorang debitur terhalang untuk melakukan prestasinya karena keadaan atau peristiwa yang tidak terduga pada saat dibuatnya kontrak, keadaan tersebut tidak dapat dimintakan pertanggungjwaban kepada debitur, sementara si debitur tidak dalam keadaan beritikad buruk. Kausa-kausa force majaure atau keadaan memaksa telah diatur dalam KUH Perdata pasal 1244 dan pasal 1245.\n\nFaktor yang mempengaruhi keadaan memaksa (force majeure), menurut KUH Perdata ada 3 (tiga) unsur yang harus dipenuhi untuk keadaan memaksa, yaitu : a.Tidak memenuhi prestasi; b. Ada sebab yang terletak di luar kesalahan debitur ; c.Faktor penyebab itu tidak dapat di duga sebelumnya dan tidak dapat dipertanggungjawabkan kepada debitur."
   },
   96: {
     "halaman": "Hal. 169 (berkas PDF hal. 3)",
@@ -369,7 +408,7 @@ window.BUKTI = {
         "ket": "HAKIM Vol. 2 No. 4, hal. 891"
       }
     ],
-    "kutipan": "Meskipun masih dalam masa transisi, OJK telah menerbitkan Rancangan Peraturan OJK (RPOJK) tentang Penyelenggaraan Perdagangan Aset Keuangan Digital dan Aset Kripto, yang mencakup berbagai aspek seperti perizinan, tata kelola, perlindungan konsumen, dan perlindungan data pribadi."
+    "kutipan": "Meskipun masih dalam masa transisi, OJK telah menerbitkan Rancangan Peraturan OJK (RPOJK) tentang Penyelenggaraan Perdagangan Aset Keuangan Digital dan Aset Kripto, yang mencakup berbagai aspek seperti perizinan, tata kelola, perlindungan konsumen, dan perlindungan data pribadi. Selain itu, OJK juga mengadopsi seluruh regulasi yang telah ditetapkan oleh Bappebti termasuk Regulasi Bappebti No. 8/2021 dan No. 11/2022 yang mengatur perdagangan dan daftar aset kripto yang dapat diperdagangkan. Dengan adanya regulasi tersebut, OJK memiliki tujuan untuk menciptakan kepastian hukum dan meningkatkan kepercayaan konsumen terhadap investasi di aset kripto, serta memastikan bahwa perdagangan dilakukan secara transparan dan aman (Kontan.co.id, 2024)."
   },
   100: {
     "langsung": "https://www.hukumonline.com/berita/a/ojk-perluas-aturan-perdagangan-aset-digital--derivatif-kripto-masuk-radar-pengawasan-lt6936595473363/"
@@ -918,23 +957,34 @@ window.BUKTI = {
     "terjemahan": "Meskipun investigasi baru dimulai dan harus berjalan sebagaimana mestinya, berdasarkan informasi yang diperoleh sejauh ini, saya berpandangan bahwa banyak karyawan FTX Group, termasuk sebagian eksekutif seniornya, tidak mengetahui adanya kekurangan dana (shortfall) maupun potensi pencampuran aset digital."
   },
   179: {
-    "halaman": "Hal. 3 laporan (Exhibit A, Page 6 of 36; berkas PDF hal. 8)",
+    "halaman": "Hal. 2–3 laporan (berkas PDF hal. 7–8)",
+    "catatan": "Pencampuran dana sejak awal berdirinya FTX.com ada di hal. 2 laporan; bagian tentang sulitnya penelusuran aset (ahli akuntansi forensik, analitik blockchain) berlanjut di hal. 3.",
     "gambar": [
       {
         "src": "img./fn179-1-asli.png",
-        "ket": "Second Interim Report, hal. 3",
+        "ket": "Second Interim Report, hal. 2",
         "src_id": "img./fn179-1-terjemahan.png"
+      },
+      {
+        "src": "img./fn179-2-asli.png",
+        "ket": "Hal. 2 (bawah)",
+        "src_id": "img./fn179-2-terjemahan.png"
+      },
+      {
+        "src": "img./fn179-3-asli.png",
+        "ket": "Lanjutan, hal. 3",
+        "src_id": "img./fn179-3-terjemahan.png"
       }
     ],
-    "kutipan": "Notwithstanding extensive work by experts in forensic accounting, asset tracing and recovery, and blockchain analytics, among other areas, it is extremely challenging to trace substantial assets of the Debtors to any particular source of funding, or to differentiate between the FTX Group’s operating funds and deposits made by its customers.",
-    "terjemahan": "Meskipun telah dilakukan upaya ekstensif oleh para ahli di bidang akuntansi forensik, penelusuran dan pemulihan aset, serta analitik blockchain, di antara bidang lainnya, sangat sulit untuk menelusuri aset-aset substansial milik Debitor ke sumber pendanaan tertentu, atau untuk membedakan antara dana operasional FTX Group dan simpanan yang dilakukan oleh nasabahnya."
+    "kutipan": "In fact, as set forth in this report, from the inception of the FTX.com exchange, the FTX Group commingled customer deposits and corporate funds, and misused them with abandon. Bankman-Fried, along with FTX.com’s co-founder, Gary Wang, and Director of Engineering, Nishad Singh (the “FTX Senior Executives”), and others at their direction, used commingled customer and corporate funds for speculative trading, venture investments, and the purchase of luxury properties, as well as for political and other donations designed to enhance their own power and influence.\n\nThe Debtors’ ongoing work to trace and recover assets, and maximize recoveries for stakeholders, has been complicated by the\n\nextensive commingling and misuse of funds that occurred there. Notwithstanding extensive work by experts in forensic accounting, asset tracing and recovery, and blockchain analytics, among other areas, it is extremely challenging to trace substantial assets of the Debtors to any particular source of funding, or to differentiate between the FTX Group’s operating funds and deposits made by its customers.",
+    "terjemahan": "Faktanya, sebagaimana diuraikan dalam laporan ini, sejak awal berdirinya bursa FTX.com, FTX Group telah mencampurkan simpanan nasabah dengan dana perusahaan, dan menyalahgunakannya secara sewenang-wenang. Bankman-Fried, bersama salah satu pendiri FTX.com, Gary Wang, dan Direktur Teknik, Nishad Singh (“Eksekutif Senior FTX”), serta pihak lain atas arahan mereka, menggunakan dana nasabah dan dana perusahaan yang telah tercampur untuk perdagangan spekulatif, investasi ventura, dan pembelian properti mewah, serta untuk donasi politik dan donasi lainnya yang dirancang guna memperbesar kekuasaan dan pengaruh mereka sendiri.\n\nUpaya Debitor yang masih berlangsung untuk menelusuri dan memulihkan aset, serta memaksimalkan pemulihan bagi para pemangku kepentingan, menjadi rumit karena\n\npencampuran dan penyalahgunaan dana secara ekstensif yang terjadi di sana. Meskipun telah dilakukan upaya ekstensif oleh para ahli di bidang akuntansi forensik, penelusuran dan pemulihan aset, serta analitik blockchain, di antara bidang lainnya, sangat sulit untuk menelusuri aset-aset substansial milik Debitor ke sumber pendanaan tertentu, atau untuk membedakan antara dana operasional FTX Group dan simpanan yang dilakukan oleh nasabahnya."
   },
   180: {
     "langsung": "https://clsbluesky.law.columbia.edu/2017/11/13/tracing-equity-how-the-bankruptcy-code-respects-state-law-entitlements/"
   },
   181: {
     "halaman": "Hal. 2–3 laporan (berkas PDF hal. 7–8)",
-    "catatan": "Naskah merujuk Loc.cit. ke footnote 171 (hal. 2); kalimat pada hal. 2 laporan berlanjut ke hal. 3.",
+    "catatan": "Naskah merujuk Op.cit. hal. 3; kalimatnya dimulai di hal. 2 laporan dan berlanjut ke hal. 3.",
     "gambar": [
       {
         "src": "img./fn181-1-asli.png",
